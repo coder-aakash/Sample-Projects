@@ -1,0 +1,16 @@
+belfast : 
+Moderate rain (total 12mm), heaviest on Thu afternoon. Very mild (max 16&deg;C on Tue morning, min 3&deg;C on Thu night). Winds decreasing (fresh winds from the SW on Tue morning, calm by Thu night)
+ranchi : 
+Light rain (total 5mm), mostly falling on Wed night. Warm (max 41&deg;C on Fri morning, min 26&deg;C on Tue night). Winds decreasing (fresh winds from the ESE on Tue night, calm by Wed morning)
+delhi : 
+Light rain (total 5mm), mostly falling on Wed morning. Warm (max 44&deg;C on Tue afternoon, min 30&deg;C on Tue night). Winds increasing (calm on Wed morning, fresh winds from the W by Fri morning)
+ranchi : 
+Light rain (total 9mm), mostly falling on Thu afternoon. Warm (max 40&deg;C on Wed afternoon, min 27&deg;C on Wed night). Winds increasing (calm on Thu afternoon, fresh winds from the NNW by Fri night)
+patna : 
+Mostly dry. Warm (max 43&deg;C on Fri afternoon, min 31&deg;C on Thu night). Winds decreasing (fresh winds from the ESE on Wed night, calm by Fri morning)
+Ranchi : 
+Light rain (total 5mm), mostly falling on Fri afternoon. Warm (max 39&deg;C on Mon morning, min 26&deg;C on Fri night). Wind will be generally light
+Delhi : 
+Heavy rain (total 93mm), heaviest during Sun night. Warm (max 41&deg;C on Sun afternoon, min 27&deg;C on Sun night). Winds decreasing (strong winds from the WNW on Sat afternoon, calm by Sun morning)
+Ranchi : 
+Light rain (total 3mm), mostly falling on Mon night. Warm (max 39&deg;C on Sun morning, min 26&deg;C on Mon night). Mainly fresh winds

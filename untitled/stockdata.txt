@@ -1,0 +1,855 @@
+<!DOCTYPE html><html><head><script>(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a,d;window.performance&&(d=(a=window.performance.timing)&&a.responseStart);var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();}).call(this);
+</script><title>Alphabet Inc: NASDAQ:GOOG quotes &amp; news - Google Finance</title><meta name="Description" content="Get detailed financial information on Alphabet Inc (NASDAQ:GOOG) including real-time stock quotes, historical charts &amp; financial news, all for free!"><meta http-equiv="X-UA-Compatible" content="IE=10"><link rel="canonical" href="http://www.google.com/finance?cid=304466804484872"><link rel="stylesheet" type="text/css" href="/finance/f/finance_us-1489929081.css"><link rel="stylesheet" type="text/css" href="/_/scs/finance-static/_/ss/k=finance.a.19joe4cifkvzw.L.X.O/d=0/rs=AGHGApG4ro2yPvM4QPsOtrO2Mt0RXck8rQ"><link rel="icon" type="image/vnd.microsoft.icon" href="/finance/favicon.ico"><style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important;}#gbar{padding-left:8px;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+</style><script></script><script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=xusttduenzseze54mcajwbd6sq"></script><!-- Start GPT Async Tag --><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>
+    var gptadslots = [];
+    var googletag = googletag || {cmd:[]};
+  </script><script>
+  googletag.cmd.push(function() {
+    //Adslot 1 declaration
+    gptadslots.push(googletag.defineSlot('/60656358/com.gf.company', [[300,250]], 'div-gpt-ad-4209476-1')
+                             .setForceSafeFrame(true)
+                             .addService(googletag.pubads()));
+    //Adslot 2 declaration
+    gptadslots.push(googletag.defineSlot('/60656358/com.gf.home', [[300,250]], 'div-gpt-ad-4209476-2')
+                             .setForceSafeFrame(true)
+                             .addService(googletag.pubads()));
+    //Adslot 3 declaration
+    gptadslots.push(googletag.defineSlot('/60656358/com.gf.portfolio', [[300,250]], 'div-gpt-ad-4209476-3')
+                             .setForceSafeFrame(true)
+                             .addService(googletag.pubads()));
+
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+  </script><!-- End GPT Async Tag --><script>
+      function _rpt() {}
+      function _tck() {}
+    </script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-40765809-1', {
+      'allowLinker': true,
+      'cookiePath': '/finance'
+    });
+    ga('send', 'pageview');
+    </script></head><body><div class=fjfe-bodywrapper><div id=fjfe-real-body class=g-doc><input type="text" name="hist_state" id="hist_state" style="display:none;"><iframe id="hist_frame" name="hist_frame" class=invfr tabindex="-1"></iframe><iframe src="/_/scs/finance-static/_/js/k=finance.a.en_US.IjD_-hDd_UQ.O/m=b/rt=h/d=0/rs=AGHGApGLhB4n2zOOEZF6jcsn67fcezX9bA" class=invfr tabindex="-1"></iframe><div id=gbar><nobr><a class=gb1 href="https://www.google.co.in/webhp?tab=ew">Search</a> <a class=gb1 href="http://www.google.co.in/imghp?hl=en&tab=ei">Images</a> <a class=gb1 href="https://maps.google.co.in/maps?hl=en&tab=el">Maps</a> <a class=gb1 href="https://play.google.com/?hl=en&tab=e8">Play</a> <a class=gb1 href="https://www.youtube.com/?tab=e1">YouTube</a> <a class=gb1 href="https://news.google.co.in/nwshp?hl=en&tab=en">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=em">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=eo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.co.in/intl/en/options/"><u>More</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a  href="http://www.google.com/support/finance?hl=en" class=gb4>Help</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?service=finance&passive=1209600&continue=https://www.google.com/finance?q%3DGOOG&followup=https://www.google.com/finance?q%3DGOOG" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><div id=fjfe-click-wrapper><script>
+(function() {
+  var l = window.location;
+  var q = l.search ? l.search.substr(1) : '';
+  var h = l.hash ? l.hash.substr(1) : '';
+  var p = '/finance';
+  var ss = 'stockscreener';
+  var conn = window.history && window.history.pushState ? '/' : '#';
+  if (l.pathname == p + '/' + ss) {
+    if (h) l.href = p + conn + ss + '?' + q + '&' + h;
+  } else if (l.pathname != p && h) {
+    l.href = p + l.hash;
+  }
+  if (h) {
+document.getElementById('fjfe-click-wrapper').style.display = 'none';
+  }
+})();
+</script><div id=gf-head class="g-section g-tpl-75-25 g-split"><div class="g-unit g-first"><div class=fjfe-logo><a href="/finance/?ei=EvUaWYmpKc_euQTe7ZmQDQ"><img src="/finance/f/logo_material-4224265490.png" alt="Google Finance"></a></div><div id=gf-search class=fjfe-search><form method="get" action="/finance" autocomplete="off"><input class=fjfe-searchbox-input name=q type=text tabindex=1 value="NASDAQ:GOOG"></input><span class=fjfe-searchbox-button-wrapper><span class=fjfe-searchbox-button-wrapper2><input class=fjfe-searchbox-button type=submit tabindex=2 value="Get quotes"></input></span></span><input type=hidden name="ei" value="EvUaWYmpKc_euQTe7ZmQDQ"></input></form></div></div><div class="g-unit fjfe-promo"><div id="ad2-target" class="id-ad2-target"></div></div></div><div class=elastic><div id=app class="g-section g-tpl-left-11p4em"><div class="g-unit g-first"><div id=gf-nav><div class=fjfe-nav-nav><ul class=fjfe-nav id=navmenu><li class="fjfe-nav-expanded fjfe-nav-selected">Company<li class=fjfe-nav-sub><div>Summary</div><li class=fjfe-nav-sub><a href="/finance/company_news?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ">News</a><li class=fjfe-nav-sub><a href="/finance/option_chain?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ">Option chain</a><li class=fjfe-nav-sub><a href="/finance/related?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ">Related companies</a><li class=fjfe-nav-sub><a href="/finance/historical?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ">Historical prices</a><li class=fjfe-nav-sub><a href="/finance?q=NASDAQ:GOOG&amp;fstype=ii&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ">Financials</a><li class=fjfe-nav-item><a href="/finance?ei=EvUaWYmpKc_euQTe7ZmQDQ"><div>Markets</div></a><li class=fjfe-nav-item><a href="/finance/market_news?ei=EvUaWYmpKc_euQTe7ZmQDQ"><div>News</div></a><li class=fjfe-nav-item><a href="/finance/portfolio?action=view&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ"><div>Portfolios</div></a><li class=fjfe-nav-item><a href="/finance/stockscreener?ei=EvUaWYmpKc_euQTe7ZmQDQ"><div>Stock screener</div></a><li class=fjfe-nav-item><a href="/finance/domestic_trends?ei=EvUaWYmpKc_euQTe7ZmQDQ"><div>Google Domestic Trends</div></a></ul></div><div class="fjfe-recentquotes fjfe-recentquotes-noquote"><h4>Recent Quotes <span class="fjfe-recentquotes-duration">(<a href="//www.google.com/history/optout?hl=en">30 days</a>)</span></h4><div class=fjfe-recentquotes-noquote-notification>You have no recent quotes</div><div class=fjfe-recentquotes-quotes><div class="fjfe-toggle fjfe-toggle-button"><span class=fjfe-chg-toggle>chg</span> | <span class=fjfe-perc-toggle>%</span></div><div class=fjfe-table-div><table class=fjfe-recentquotes-table id=rq width=100%></table></div></div></div></div><script>var _cleardot = 'data:image\/gif;base64,R0lGODlhAQABAIAAAP\/\/\/\/\/\/\/yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d';
+    var google = google || {};
+    google.finance = google.finance || {};
+    google.finance.gce = false ;</script><script src="/finance/f/sfe-opt-3252375509.js"></script><script>
+      _regOnLoad = function(f) {
+        if (document.readyState == 'complete') {
+          f && f();
+        } else {
+          // Window.attachEvent() for IE8 and below compatability.
+          var addEventFunction = window.attachEvent ||
+              window.addEventListener || function(ignored, f) { f(); };
+          var event = window.attachEvent ? 'onload' : 'load';
+          f && addEventFunction(event, f);
+        }
+      };
+    
+      google.finance.renderRecentQuotes = function() {};
+    </script></div><div class=g-unit id=gf-viewc><div class=fjfe-content>
+<script>
+(function() {
+if (window['_finance_chart']) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+setFinanceChart(null);
+}
+})();
+var _ticker = 'NASDAQ:GOOG';
+var _slHeight = 221;
+var _companyName = 'Alphabet Inc';
+var _companyPageNewsTab = '0';
+var _displayVolume = true;
+setCompanyId(694653);
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/ABspo0BpCOs/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top appbar-hide" id=companyheader>
+<div class="g-unit g-first"><h3>Alphabet Inc&nbsp;&nbsp;</h3>(Public, NASDAQ:GOOG)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=NASDAQ%3AGOOG&ei=EvUaWYmpKc_euQTe7ZmQDQ" class=norm>Watch this stock</a>
+&nbsp;
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=GOOG&ei=EvUaWYmpKc_euQTe7ZmQDQ" id=searchmore>GOOG</a></b>
+</div>
+</div>
+</div>
+
+<script>
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "NASDAQ:GOOG";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'EvUaWYmpKc_euQTe7ZmQDQ';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"ad-g.doubleclick.net/adi/com.gf.company/technology;fe=nasdaq;ft=goog;fm=large;ssl=1;dcopt=ist;myd=ad;sz=300x250;tile=1",streaming:[{cid:"304466804484872",s:"GOOG",e:"NASDAQ"},{cid:"700029",s:"BIDU",e:"NASDAQ"},{cid:"10670257",s:"YNDX",e:"NASDAQ"},{cid:"658890",s:"YHOO",e:"NASDAQ"},{cid:"358464",s:"MSFT",e:"NASDAQ"},{cid:"664197",s:"LNVGY",e:"OTCMKTS"},{cid:"22144",s:"AAPL",e:"NASDAQ"},{cid:"18241",s:"IBM",e:"NYSE"},{cid:"296878244325128",s:"FB",e:"NASDAQ"},{cid:"820577505090886",s:"GOOAV",e:"NASDAQ"},{cid:"32086821185414",s:"TWTR",e:"NYSE"}],dfp_companion:"ad-g.doubleclick.net/adi/com.gf.company/technology;fe=nasdaq;ft=goog;fm=large;ssl=1;dcopt=ist;myd=ad2;sz=33x33;tile=2"},company:{news:{clusters:[{nrel:87,idx:0,id:"52779495108580",lead_story_url:"http://investorplace.com/2017/05/alphabet-inc-googl-has-to-make-some-difficult-decisions/",a:[{t:"I/O Preview: Alphabet Inc (GOOGL) Has Difficult Decisions to Make",u:"http://investorplace.com/2017/05/alphabet-inc-googl-has-to-make-some-difficult-decisions/",s:"Investorplace.com",sp:"Alphabet Inc (NASDAQ:GOOGL), the software artists formerly known as Google, holds its annual I/O developer conference starting Wednesday.",d:"21 hours ago",tt:"1494862425",usg:"AFQjCNH7cO8u0-eqE_kIQH9FA_O0WoA18A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/05/alphabet-inc-googl-has-to-make-some-difficult-decisions/\u0026cid=52779495108580\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNG_NQQA1-FWPjat8l1OPCk6MWx_7g"},{t:"Traders Secrets on Yahoo! Inc. (YHOO), Alphabet Inc. (GOOGL)",u:"https://stocknewsjournal.com/2017/05/16/traders-secrets-on-yahoo-inc-yhoo-alphabet-inc-googl/",s:"StockNewsJournal",sp:"Alphabet Inc. (NASDAQ:GOOGL), maintained return on investment for the last twelve months at 14.30, higher than what Reuters data shows regarding industry\u0026#39;s average.",d:"1 hour ago",tt:"1494931950",usg:"AFQjCNEoqNsEyNQTgXLD1fiIyt2XNgRIhg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://stocknewsjournal.com/2017/05/16/traders-secrets-on-yahoo-inc-yhoo-alphabet-inc-googl/\u0026cid=52779495108580\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHWyxXaJZML2rcnlzJX_9D1GlXUgw"},{t:"Alphabet Inc (GOOGL) Given Average Rating of \u0026quot;Buy\u0026quot; by Brokerages",u:"https://www.thecerbatgem.com/2017/05/15/alphabet-inc-googl-receives-consensus-recommendation-of-buy-from-analysts-updated-updated.html",s:"The Cerbat Gem",sp:"Alphabet logo Alphabet Inc (NASDAQ:GOOGL) has earned a consensus rating of &#8220;Buy&#8221; from the forty-eight brokerages that are covering the company.",d:"16 hours ago",tt:"1494880650",usg:"AFQjCNERaTWKO6s1LR1TxvyGP6f_tM7OiQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.thecerbatgem.com/2017/05/15/alphabet-inc-googl-receives-consensus-recommendation-of-buy-from-analysts-updated-updated.html\u0026cid=52779495108580\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHRXWWpvGYo7JV5CdrWLuvm5eenyQ"}],lead_story_doc_id:"15857588116952879025"},{nrel:48,idx:1,id:"52779496455421",lead_story_url:"http://investorplace.com/2017/05/3-stocks-to-watch-on-monday-tesla-inc-tsla-alphabet-inc-googl-and-purefunds-ise-cyber-security-etf-hack/",a:[{t:"3 Stocks to Watch on Monday: Tesla Inc (TSLA), Alphabet Inc (GOOGL) and ...",u:"http://investorplace.com/2017/05/3-stocks-to-watch-on-monday-tesla-inc-tsla-alphabet-inc-googl-and-purefunds-ise-cyber-security-etf-hack/",s:"Investorplace.com",sp:"Oil is making a big jump as the markets prepare for their Monday open, with West Texas Intermediate leaping to multiweek highs amid reports that Russia and Saudi Arabia are discussing a deal to extend oil production cuts for another nine months.",d:"May 15, 2017",tt:"1494849600",usg:"AFQjCNHjDy7j5PCxF4QHTYEZkSsHPTdTZw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/05/3-stocks-to-watch-on-monday-tesla-inc-tsla-alphabet-inc-googl-and-purefunds-ise-cyber-security-etf-hack/\u0026cid=52779496455421\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNEVq-tg2RsA6RKMIoXBN5FGVnUaHA"}],lead_story_doc_id:"9924819288463796985"},{nrel:13,idx:2,id:"52779495098885",lead_story_url:"https://www.gurufocus.com/news/521799/westwood-holdings-group-inc-buys-alphabet-inc-hormel-foods-corp-accenture-plc-sells-allstate-corp-mccormick-inc-ps-business-parks-inc",a:[{t:"Westwood Holdings Group Inc Buys Alphabet Inc, Hormel Foods Corp, Accenture ...",u:"https://www.gurufocus.com/news/521799/westwood-holdings-group-inc-buys-alphabet-inc-hormel-foods-corp-accenture-plc-sells-allstate-corp-mccormick-inc-ps-business-parks-inc",s:"GuruFocus.com",sp:"Dallas, TX, based Investment company Westwood Holdings Group Inc buys Alphabet Inc, Hormel Foods Corp, Accenture PLC, Halliburton Co, RSP Permian Inc, Pentair PLC, Energy Transfer Partners LP, BB\u0026amp;T Corp, Electronics for Imaging Inc,\u0026nbsp;...",d:"11 hours ago",tt:"1494898708",usg:"AFQjCNGl5P416OjTYtGxiatGuQU4e7pNIA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.gurufocus.com/news/521799/westwood-holdings-group-inc-buys-alphabet-inc-hormel-foods-corp-accenture-plc-sells-allstate-corp-mccormick-inc-ps-business-parks-inc\u0026cid=52779495098885\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNE-C7eQct0_7IzsQ9gX_DnGyzG_1Q"}],lead_story_doc_id:"787329516401906619"},{nrel:39,idx:3,id:"52779494746147",lead_story_url:"https://stocknews.com/news/googl-alphabet-inc-makes-adsense-more-lenient-on-publishers/",a:[{t:"Alphabet Inc Makes AdSense More Lenient On Publishers",u:"https://stocknews.com/news/googl-alphabet-inc-makes-adsense-more-lenient-on-publishers/",s:"StockNews.com (blog)",sp:"Alphabet Inc shares were unchanged in premarket trading Monday. Year-to-date, GOOGL has gained 20.53%, versus a 7.38% rise in the benchmark S\u0026amp;P 500 index during the same period.",d:"May 15, 2017",tt:"1494844875",usg:"AFQjCNGiRvMWpgj0qQelHBMutWLsebZsXA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://stocknews.com/news/googl-alphabet-inc-makes-adsense-more-lenient-on-publishers/\u0026cid=52779494746147\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNEc_ioFZUTwWisgx_6QERtRXRkDXw"},{t:"Alphabet Inc (NASDAQ:GOOGL)\u0026#39;s New Ad Policy Will Focus On Page-by-Page And Not ...",u:"https://stockmarketdaily.co/alphabet-inc-nasdaqgoogls-new-ad-policy-will-focus-on-page-by-page-and-not-website/",s:"Stock Market Daily",sp:"Alphabet Inc (NASDAQ:GOOGL) has introduced a fresh ad policy that will focus on page-by-page rather than the entire website.",d:"May 15, 2017",tt:"1494849600",usg:"AFQjCNH_OD8SS4aU1wS1qyyqe7F1xb-7IA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://stockmarketdaily.co/alphabet-inc-nasdaqgoogls-new-ad-policy-will-focus-on-page-by-page-and-not-website/\u0026cid=52779494746147\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHieqi2l-wFl7xk-BzD7KLFZ_vW2A"}],lead_story_doc_id:"12502235220066971255"},{nrel:210,idx:4,id:"52779491734194",lead_story_url:"http://www.valuewalk.com/2017/05/tesla-inc-tsla-downgraded-alphabet-apple/",a:[{t:"Tesla Inc (TSLA) Stock Downgraded For Future Threat From Alphabet Inc, Apple Inc",u:"http://www.valuewalk.com/2017/05/tesla-inc-tsla-downgraded-alphabet-apple/",s:"ValueWalk",sp:"Tesla Inc (TSLA) stock slipped after one bull downgraded it, although he did so with plenty of praise for the company, saying that ultimately, the company could &#8220;become the next Amazon or Apple.",d:"18 hours ago",tt:"1494870525",usg:"AFQjCNGIMUTXM7hjh5pXrSeliwFXVckLIQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.valuewalk.com/2017/05/tesla-inc-tsla-downgraded-alphabet-apple/\u0026cid=52779491734194\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNEz1SdJBrsuvfC8rwdrqAhCU0qXUA"},{t:"Tesla falls as Morgan Stanley flags cash burn, richer rivals",u:"http://www.livemint.com/Industry/uX298eyipSHfoI3venhYZN/Tesla-falls-as-Morgan-Stanley-flags-cash-burn-richer-rivals.html",s:"Livemint",sp:"The expansion by Alphabet Inc.\u0026#39;s Waymo of its self-driving Chrysler Pacifica minivan fleet and Apple Inc.\u0026#39;s plans to test autonomous cars in California amount to &#8220;an assault&#8221; of the market by large tech firms, he said.",d:"5 hours ago",tt:"1494919125",usg:"AFQjCNHb-o4SqDSQMJPrKIScJRCSRPyH-Q",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.livemint.com/Industry/uX298eyipSHfoI3venhYZN/Tesla-falls-as-Morgan-Stanley-flags-cash-burn-richer-rivals.html\u0026cid=52779491734194\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHmHU93JNYzc0bYaE0WSchNfKGgjA"},{t:"Tesla gets a surprise downgrade from one of its biggest fans",u:"http://www.marketwatch.com/story/tesla-gets-a-surprise-downgrade-from-one-of-its-biggest-fans-2017-05-15",s:"MarketWatch",sp:"One of Wall Street\u0026#39;s best-known Tesla Inc. bulls has turned more cautious on the stock, saying the company\u0026#39;s aspirations to go head-to-head with the likes of Apple Inc. and Amazon.com Inc. is a risk that is not reflected in the share price. Analysts at ...",d:"21 hours ago",tt:"1494863261",usg:"AFQjCNFitTKuZQBzG1VDSS6VHCurPdROVg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.marketwatch.com/story/tesla-gets-a-surprise-downgrade-from-one-of-its-biggest-fans-2017-05-15\u0026cid=52779491734194\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGnqNebaqSR5TBmYyVfFXISZo-k1g"}],lead_story_doc_id:"9973899421537111219"},{nrel:103,idx:5,id:"52779488313613",lead_story_url:"http://investorplace.com/2017/05/alphabet-inc-googl-probably-wont-win-the-cable-tv-wars/",a:[{t:"Alphabet Inc (GOOGL) Probably Won\u0026#39;t Win the Cable TV Wars",u:"http://investorplace.com/2017/05/alphabet-inc-googl-probably-wont-win-the-cable-tv-wars/",s:"Investorplace.com",sp:"Back in February, Alphabet Inc (NASDAQ:GOOGL) finally unveiled its oft-rumored cable television service, dubbing it YouTube TV.",d:"May 10, 2017",tt:"1494431100",usg:"AFQjCNF9M1TOc2g-ijDmwHF-jX86yXyV_Q",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/05/alphabet-inc-googl-probably-wont-win-the-cable-tv-wars/\u0026cid=52779488313613\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHzb-jopn5VUzmfJfclSOQGBoYDAA"},{t:"Alphabet Inc (GOOGL) is Origin Asset Management LLP\u0026#39;s 10th Largest Position",u:"https://www.thecerbatgem.com/2017/05/10/origin-asset-management-llp-has-33-192-million-position-in-alphabet-inc-googl-updated.html",s:"The Cerbat Gem",sp:"Alphabet logo Origin Asset Management LLP decreased its stake in Alphabet Inc (NASDAQ:GOOGL) by 0.9% during the fourth quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC).",d:"May 10, 2017",tt:"1494427725",usg:"AFQjCNG85Mn9v0MvTnHdTV5oshh8i5pBHQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.thecerbatgem.com/2017/05/10/origin-asset-management-llp-has-33-192-million-position-in-alphabet-inc-googl-updated.html\u0026cid=52779488313613\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNEmRrUDp1dt8pXqQNgNVKMZAuYh_g"},{t:"Alphabet Inc (NASDAQ:GOOG) Stock Price Will Hit $999.00: Analysts",u:"https://expertgazette.com/2017/05/08/alphabet-inc-nasdaqgoog-stock-price-will-hit-999-00-analysts/",s:"ExpertGazette",sp:"Alphabet Inc (NASDAQ:GOOG) shares traded -0.49% during the most recent session the stock exchanged hands 1.91M shares versus average trading capacity of 1.45M shares, yielding a market cap of $646.17B.",d:"May 8, 2017",tt:"1494252225",usg:"AFQjCNFJJdL1zMfWzfPXtlYKOvS-tT_dAg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://expertgazette.com/2017/05/08/alphabet-inc-nasdaqgoog-stock-price-will-hit-999-00-analysts/\u0026cid=52779488313613\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHYXQT4tuIoq4gp9WvwKkJfStm-vA"}],lead_story_doc_id:"16111033988562868773"},{nrel:74,idx:6,id:"52779489548585",lead_story_url:"http://www.nasdaq.com/article/giverny-capital-inc-buys-heico-corp-alphabet-inc-five-below-inc-sells-buffalo-wild-wings-cm788280",a:[{t:"Giverny Capital Inc. Buys Heico Corp, Alphabet Inc, Five Below Inc, Sells ...",u:"http://www.nasdaq.com/article/giverny-capital-inc-buys-heico-corp-alphabet-inc-five-below-inc-sells-buffalo-wild-wings-cm788280",s:"Nasdaq",sp:"Giverny Capital Inc. initiated holdings in Hanesbrands Inc. The purchase prices were between $18.98 and $23.83, with an estimated average price of $21.2.",d:"May 11, 2017",tt:"1494509400",usg:"AFQjCNGH_WMhCMd-DghTjLTPOcqQspvAwQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.nasdaq.com/article/giverny-capital-inc-buys-heico-corp-alphabet-inc-five-below-inc-sells-buffalo-wild-wings-cm788280\u0026cid=52779489548585\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGMew_cx5JAsXhXtpQt2YoKnSmeFA"},{t:"Investec Asset Management LTD Buys Alphabet Inc, Celgene Corp, Microsoft Corp ...",u:"https://www.gurufocus.com/news/519850/investec-asset-management-ltd-buys-alphabet-inc-celgene-corp-microsoft-corp-sells-activision-blizzard-inc-alliance-data-systems-corp-qualcomm-inc",s:"GuruFocus.com",sp:"London, X0, based Investment company Investec Asset Management LTD buys Alphabet Inc, Celgene Corp, Microsoft Corp, Bank of America Corporation, Extended Stay America Inc, Welbilt Inc, Bank of Nova Scotia, SunTrust Banks Inc, Norfolk Southern\u0026nbsp;...",d:"May 12, 2017",tt:"1494592425",usg:"AFQjCNGJhQQfKL7bsqv4FhoSSv_iID-y-w",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.gurufocus.com/news/519850/investec-asset-management-ltd-buys-alphabet-inc-celgene-corp-microsoft-corp-sells-activision-blizzard-inc-alliance-data-systems-corp-qualcomm-inc\u0026cid=52779489548585\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHDK9tEtE5O9WoDrTIh82RR4paOOQ"}],lead_story_doc_id:"13633570161562234509"},{nrel:306,idx:7,id:"52779484542905",lead_story_url:"https://seekingalpha.com/article/4069985-alphabet-winning-innovation",a:[{t:"Alphabet: Winning Through Innovation",u:"https://seekingalpha.com/article/4069985-alphabet-winning-innovation",s:"Seeking Alpha",sp:"YouTube CEO Susan Wojcicki announced on May 4 that YouTube would be premiering 40 new advertising supported TV-style shows. This is in addition to the subscription service YouTube Red and YouTube TV which provides a cable style package of TV\u0026nbsp;...",d:"May 6, 2017",tt:"1494047700",usg:"AFQjCNGSHgHzo0xay-iwQXwXQH2nBO43Sg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://seekingalpha.com/article/4069985-alphabet-winning-innovation\u0026cid=52779484542905\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGoRN37WINKOPQLVfk5eDYUj7zxlA"},{t:"Alphabet Inc (GOOGL) Fundamental Trends Remain Positive And Q1 Results Impressive",u:"http://smartstocknews.com/83249-alphabet-inc-googl-fundamental-trends-remain-positive-and-q1-results-impressive/",s:"Sm&#1072;rt St&#1086;ck N&#1077;ws",sp:"MKM Partners is updating its estimates on Alphabet Inc. (NASDAQ:GOOGL) following another solid result last week. MKM Partners\u0026#39; revenue estimates are slightly higher for this year and next, driven mainly by stronger revenue across all three Google\u0026nbsp;...",d:"May 8, 2017",tt:"1494249525",usg:"AFQjCNEeJ3aGfV0YL3iFGSMrbtqnj4jP5g",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://smartstocknews.com/83249-alphabet-inc-googl-fundamental-trends-remain-positive-and-q1-results-impressive/\u0026cid=52779484542905\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGCcq6c3pa1dQKdi5xQNKMkweOttg"},{t:"Triangle Securities Wealth Management Raises Stake in Alphabet Inc (GOOGL)",u:"https://www.thecerbatgem.com/2017/05/09/triangle-securities-wealth-management-raises-stake-in-alphabet-inc-googl.html",s:"The Cerbat Gem",sp:"Alphabet logo Triangle Securities Wealth Management raised its position in Alphabet Inc (NASDAQ:GOOGL) by 29.6% during the first quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC).",d:"May 8, 2017",tt:"1494277875",usg:"AFQjCNFMoERxFfAZfYIkrtqBog9Y7XzrsA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.thecerbatgem.com/2017/05/09/triangle-securities-wealth-management-raises-stake-in-alphabet-inc-googl.html\u0026cid=52779484542905\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNH0cM-_J2-iu_YKP0fCYlXU5Cp9MA"}],lead_story_doc_id:"8284551750984415262"},{nrel:77,idx:8,id:"52779472521706",lead_story_url:"http://www.nasdaq.com/article/alphabet-inc-earnings-climb-29-in-q1-20170427-02206",a:[{t:"Alphabet Inc. Earnings Climb 29% In Q1",u:"http://www.nasdaq.com/article/alphabet-inc-earnings-climb-29-in-q1-20170427-02206",s:"Nasdaq",sp:"(RTTNews.com) - Alphabet Inc. ( GOOGL ) revealed a profit for its first quarter that gained ground compared to the same period last year.",d:"Apr 27, 2017",tt:"1493326800",usg:"AFQjCNFjKVdibWZEM9ojMXh2HEu__Y992Q",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.nasdaq.com/article/alphabet-inc-earnings-climb-29-in-q1-20170427-02206\u0026cid=52779472521706\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFOClXdf3HcQ6PldIbk_lxbj0ZvQA"}],lead_story_doc_id:"10284292336583872151"},{nrel:270,idx:9,id:"52779481127883",lead_story_url:"http://investorplace.com/2017/05/alphabet-inc-googl-stock-blow-past-1000/",a:[{t:"Why Alphabet Inc (GOOGL) Stock Will Blow Past $1000",u:"http://investorplace.com/2017/05/alphabet-inc-googl-stock-blow-past-1000/",s:"Investorplace.com",sp:"Tech behemoth Alphabet Inc (NASDAQ:GOOG, NASDAQ:GOOGL) has gained more than 20% so far this year and recent days have seen the shares skyrocket after the company released stellar first-quarter results and gave the market something to cheer\u0026nbsp;...",d:"May 5, 2017",tt:"1493995725",usg:"AFQjCNGXpJBej2SwjzWR0Es9LTjissUXWQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/05/alphabet-inc-googl-stock-blow-past-1000/\u0026cid=52779481127883\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNExwsi0rJzMz7_n5w5W11GVvaq0bQ"},{t:"Alphabet: A Solid Investment But It Isn\u0026#39;t Cheap",u:"https://seekingalpha.com/article/4069158-alphabet-solid-investment-cheap",s:"Seeking Alpha",sp:"In an effort to keep things succinct, I don\u0026#39;t cover the Other Bets segment as it is less than 1% of total Alphabet revenue for 2017 Q1.",d:"May 4, 2017",tt:"1493920403",usg:"AFQjCNH08naI6GIfLdngH5-qr26TKVX3dg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://seekingalpha.com/article/4069158-alphabet-solid-investment-cheap\u0026cid=52779481127883\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFpR46nj-6vMaHaraZXtHR9f8jPRA"},{t:"Buy Google Stock On Any Near-term PullBack - Alphabet Inc (NASDAQ:GOOGL)",u:"https://amigobulls.com/articles/2017-05-03-buy-google-stock-on-any-near-term-pullback-alphabet-inc-nasdaq-googl",s:"Amigobulls",sp:"Alphabet\u0026#39;s hardware business is finally coming to life and in fact, there are reports that Chromebooks have outsold Apple Inc (NASDAQ:AAPL) Macs for the first time in 2016. Hardware is one of the biggest bets of the company as described by Google CEO,\u0026nbsp;...",d:"May 3, 2017",tt:"1493810100",usg:"AFQjCNFxC7KjK3ZI5OQ3DJHPrB8dDzNZsA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://amigobulls.com/articles/2017-05-03-buy-google-stock-on-any-near-term-pullback-alphabet-inc-nasdaq-googl\u0026cid=52779481127883\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGh8Zxgii-gSkNc1Got0Z9jDX6egg"}],lead_story_doc_id:"11414997786819811226"},{nrel:4,idx:10,id:"52779490817067",lead_story_url:"http://investorplace.com/2017/05/go-long-alphabet-inc-googl-stock-with-no-money-down/",a:[{t:"Go Long Alphabet Inc (GOOGL) Stock With No Money Down",u:"http://investorplace.com/2017/05/go-long-alphabet-inc-googl-stock-with-no-money-down/",s:"Investorplace.com",sp:"While the rally is good news to those who are already long hot stocks like Alphabet, Apple Inc. (NASDAQ:AAPL) or Netflix, Inc. (NASDAQ:NFLX), this poses a problem to potential investors. As fast as GOOGL has been rallying, it perpetually looks like it ...",d:"May 11, 2017",tt:"1494514125",usg:"AFQjCNFd9T-7BcRgm7c0rfEDjtn63CHg8w",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/05/go-long-alphabet-inc-googl-stock-with-no-money-down/\u0026cid=52779490817067\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNE_jGj5Qz6ghtRcTfE4baWjT57a0A"}],lead_story_doc_id:"13185037604049358294"},{nrel:226,idx:11,id:"52779477472597",lead_story_url:"https://seekingalpha.com/article/4067258-alphabets-bets-paying",a:[{t:"Are Alphabet\u0026#39;s Other Bets Paying Off?",u:"https://seekingalpha.com/article/4067258-alphabets-bets-paying",s:"Seeking Alpha",sp:"At the core of my investment thesis lies Alphabet\u0026#39;s smallest, loss-producing division known as Other Bets. Despite the uncertainties and challenges, I find GV and CapitalG two interesting ventures that could be worth the wait.",d:"May 1, 2017",tt:"1493601966",usg:"AFQjCNErOdnF0lx_QXzYhJ5aLqBRaP2D-Q",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://seekingalpha.com/article/4067258-alphabets-bets-paying\u0026cid=52779477472597\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNG1eyTFJC6a7Is0x5cmi2RQmqEOpg"},{t:"Argus Raised Alphabet Inc (GOOGL) PT",u:"http://smartstocknews.com/59118-argus-raised-alphabet-inc-googl-pt/",s:"Sm&#1072;rt St&#1086;ck N&#1077;ws",sp:"Alphabet Inc (NASDAQ:GOOGL) reported 1Q17 results that showed reaccelerating growth on both the top and bottom lines. Argus sees Alphabet as one of the tech industry\u0026#39;s leaders, along with Facebook, Apple and Amazon.",d:"May 2, 2017",tt:"1493748316",usg:"AFQjCNG5RXbVzWNFex0QMN90UxNJ_MJAEw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://smartstocknews.com/59118-argus-raised-alphabet-inc-googl-pt/\u0026cid=52779477472597\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGnz8NEYdqhumfllI5W8MYnmjTq_g"}],lead_story_doc_id:"9164130565917392579"},{nrel:114,idx:12,id:"52779480735033",lead_story_url:"http://www.marketwatch.com/story/alphabet-claims-proof-of-collusion-between-engineer-uber-2017-05-03",a:[{t:"Alphabet claims proof of collusion between engineer, Uber",u:"http://www.marketwatch.com/story/alphabet-claims-proof-of-collusion-between-engineer-uber-2017-05-03",s:"MarketWatch",sp:"The revelation Wednesday is part of a high-profile legal battle between Alphabet Inc. GOOG, +0.17% GOOGL, -0.08% and Uber, and it bolsters Alphabet\u0026#39;s argument of collusion between Uber and the engineer, Anthony Levandowski.",d:"May 3, 2017",tt:"1493845875",usg:"AFQjCNF2T2LSXRxEKjxH5GGuTTUzXUyK2g",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.marketwatch.com/story/alphabet-claims-proof-of-collusion-between-engineer-uber-2017-05-03\u0026cid=52779480735033\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNG36O8pePvrz3KB49C8NKbmgt4fEw"},{t:"Uber in US Court Over Injunction Barring It\u0026#39;s Self-driving Program",u:"http://www.news18.com/news/auto/uber-in-us-court-over-injunction-barring-its-self-driving-program-1390669.html",s:"News18",sp:"The ride-services company is contesting a lawsuit by Alphabet Inc\u0026#39;s self-driving car unit, Waymo, which accused former Waymo engineer and current Uber executive Anthony Levandowski of taking technical secrets from Waymo and using them to help Uber\u0026#39;s\u0026nbsp;...",d:"May 3, 2017",tt:"1493803350",usg:"AFQjCNFxcS5YBxIymKzlknS2FYj5aKpp-A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.news18.com/news/auto/uber-in-us-court-over-injunction-barring-its-self-driving-program-1390669.html\u0026cid=52779480735033\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGuYf2x-A-t82sPWd_XqeJDGJxvfQ"}],lead_story_doc_id:"5854458290867807473"},{nrel:248,idx:13,id:"52779494575661",lead_story_url:"https://www.bloomberg.com/news/articles/2017-05-15/alphabet-s-waymo-teams-up-with-lyft-on-self-driving-cars",a:[{t:"Alphabet\u0026#39;s Waymo Teams Up With Lyft to Test Autonomous Cars",u:"https://www.bloomberg.com/news/articles/2017-05-15/alphabet-s-waymo-teams-up-with-lyft-on-self-driving-cars",s:"Bloomberg",sp:"Alphabet Inc. is working with Lyft Inc. on a plan to test autonomous cars on the road, escalating a fight with Uber Technologies Inc. by partnering with its main rival in the U.S.. Waymo, an automotive business owned by Google\u0026#39;s parent company, is ...",d:"May 15, 2017",tt:"1494811263",usg:"AFQjCNGCL9OuY5P2kvS7DoKoscGU24YAFA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.bloomberg.com/news/articles/2017-05-15/alphabet-s-waymo-teams-up-with-lyft-on-self-driving-cars\u0026cid=52779494575661\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFhIs34RzgRcuHaumsVzIni2wro5w"},{t:"Alphabet\u0026#39;s Waymo and Lyft Collaborate on Driverless Car",u:"https://finance.yahoo.com/news/alphabet-apos-waymo-lyft-collaborate-145402668.html",s:"Yahoo News",sp:"Alphabet Inc.\u0026#39;s GOOGL recently formed self-driving car unit, Waymo, teamed up with Lyft Inc, to accelerate its competitive push against Uber.",d:"21 hours ago",tt:"1494862425",usg:"AFQjCNFcl7JxGwjGtp7h4mFCcsF8L5arsw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://finance.yahoo.com/news/alphabet-apos-waymo-lyft-collaborate-145402668.html\u0026cid=52779494575661\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFngHWMx3Mq41IqmDEZHoUdhF7Fbg"}],lead_story_doc_id:"14411013833333168567"},{idx:14,id:"0",lead_story_url:"http://www.nasdaq.com/article/capital-advantage-inc-buys-clorox-co-dow-chemical-co-alphabet-inc-sells-guggenheim-cm784503",a:[{t:"Capital Advantage, Inc. Buys Clorox Co, Dow Chemical Co, Alphabet Inc, Sells ...",u:"http://www.nasdaq.com/article/capital-advantage-inc-buys-clorox-co-dow-chemical-co-alphabet-inc-sells-guggenheim-cm784503",s:"Nasdaq",sp:"Capital Advantage, Inc. initiated holdings in Alphabet Inc. The purchase prices were between $786.14 and $852.12, with an estimated average price of $820.39.",d:"May 3, 2017",tt:"1493850600",usg:"AFQjCNG0K_WhQFLxjOV0ESTMkOGEkCdepA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.nasdaq.com/article/capital-advantage-inc-buys-clorox-co-dow-chemical-co-alphabet-inc-sells-guggenheim-cm784503\u0026cid=0\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGXx-2E52oFKQxW657CXU-wgCFuNQ"}],lead_story_doc_id:"16588646081855570421"},{nrel:140,idx:15,id:"52779470360995",lead_story_url:"http://www.valuewalk.com/2017/04/alphabet-stock-record-high-earnings/",a:[{t:"Alphabet Inc Stock Soars To Record High Ahead Of Earnings",u:"http://www.valuewalk.com/2017/04/alphabet-stock-record-high-earnings/",s:"ValueWalk",sp:"Alphabet is scheduled to release its next earnings report on Thursday after closing bell, and analysts and investors alike are expecting something excellent.",d:"Apr 24, 2017",tt:"1493057905",usg:"AFQjCNFemfisnUNl011eOS_8gs-OaMrMvQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.valuewalk.com/2017/04/alphabet-stock-record-high-earnings/\u0026cid=52779470360995\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFlqa6FaqFfeV1OpFpwOZsuQQKz3A"},{t:"Microsoft Corporation (MSFT) to Battle Alphabet Inc (GOOGL) for Class Crown",u:"http://investorplace.com/2017/04/microsoft-corporation-msft-alphabet-inc-googl-class-crown/",s:"Investorplace.com",sp:"CEO Satya Nadella will, apparently, be allocating a larger portion of the company\u0026#39;s resources to wage war against tech behemoth Alphabet Inc (NASDAQ:GOOG, NASDAQ:GOOGL) in the classroom arena. Both Microsoft and Google each sport their own\u0026nbsp;...",d:"Apr 26, 2017",tt:"1493237025",usg:"AFQjCNHkeJ-EXB1EHZ2ghnfArL6xnv_F9g",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/04/microsoft-corporation-msft-alphabet-inc-googl-class-crown/\u0026cid=52779470360995\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFf26TPzBr5z0NTriyroA2fFWuhvA"},{t:"Should You Buy Google Stock Ahead Of Q1 Earnings? Alphabet Inc (GOOGL)",u:"https://amigobulls.com/articles/2017-04-26-should-you-buy-google-stock-ahead-of-q1-earnings-alphabet-inc-googl",s:"Amigobulls",sp:"Online search giant Google\u0026#39;s parent company Alphabet Inc (NASDAQ:GOOGL) is set to report its first quarter 2017 earnings on April 27th, after the markets close.",d:"Apr 26, 2017",tt:"1493205975",usg:"AFQjCNFNZj-zkikNV2on3k6GZz9gG0tktw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://amigobulls.com/articles/2017-04-26-should-you-buy-google-stock-ahead-of-q1-earnings-alphabet-inc-googl\u0026cid=52779470360995\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGheIqYReK3xRfFWxHSCgCWLrH-yA"}],lead_story_doc_id:"7766541377193314136"},{nrel:35,idx:16,id:"52779495485084",lead_story_url:"https://seekingalpha.com/article/4073557-waymo-vs-uber-dark-side-silicon-valley",a:[{t:"Waymo Vs. Uber: The Dark Side Of Silicon Valley",u:"https://seekingalpha.com/article/4073557-waymo-vs-uber-dark-side-silicon-valley",s:"Seeking Alpha",sp:"Last Friday I reported that Judge William Alsup had granted a limited injunction in the Waymo vs. Uber (Private:UBER) lawsuit over the use by Uber of stolen trade secrets.",d:"6 hours ago",tt:"1494914400",usg:"AFQjCNF1ngKqApmQSrhDIiTJsnF9gqTU5A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://seekingalpha.com/article/4073557-waymo-vs-uber-dark-side-silicon-valley\u0026cid=52779495485084\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNG2c2t_LLwvYb0fBGG-GyJV2KRS7A"}],lead_story_doc_id:"8784384895878552657"},{idx:17,id:"0",lead_story_url:"http://www.nasdaq.com/article/alphabet-inc-googl-has-surged-to-a-new-high-on-strong-q1-earnings-20170428-00748",a:[{t:"Alphabet Inc. (GOOGL) Has Surged To A New High On Strong Q1 Earnings",u:"http://www.nasdaq.com/article/alphabet-inc-googl-has-surged-to-a-new-high-on-strong-q1-earnings-20170428-00748",s:"Nasdaq",sp:"(RTTNews.com) - Alphabet Inc. ( GOOGL ) reported first quarter EPS of $7.73 after the close Thursday, up from $6.02 a year ago.",d:"Apr 28, 2017",tt:"1493386875",usg:"AFQjCNENVDgRr28Q6upwGMs9LrTyhpJDzg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.nasdaq.com/article/alphabet-inc-googl-has-surged-to-a-new-high-on-strong-q1-earnings-20170428-00748\u0026cid=0\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNG3UXH3RTBvdgTWUcxnFipY_b-2Xg"}],lead_story_doc_id:"7410594449396944349"},{nrel:1116,idx:18,id:"52779477075082",lead_story_url:"http://investorplace.com/2017/05/should-warren-buffett-buy-alphabet-inc-googl-stock/",a:[{t:"Should Warren Buffett Buy Alphabet Inc (GOOGL) Stock?",u:"http://investorplace.com/2017/05/should-warren-buffett-buy-alphabet-inc-googl-stock/",s:"Investorplace.com",sp:"Warren Buffett admitted at the Berkshire Hathaway Inc. (NYSE:BRK.A, NYSE:BRK.B) annual meeting that he should have bought Alphabet Inc (NASDAQ:GOOG, NASDAQ:GOOGL) stock. That\u0026#39;s because, early on, he and Charlie Munger knew that Berkshire\u0026#39;s\u0026nbsp;...",d:"May 8, 2017",tt:"1494262350",usg:"AFQjCNHArEQRa09xLMnYsKlsZuBGRCs4yw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/05/should-warren-buffett-buy-alphabet-inc-googl-stock/\u0026cid=52779477075082\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFyl5Rzlbc8ZKx82zL2cdTEHL82tQ"},{t:"Apple Inc. (AAPL), Alphabet Inc (GOOGL): Warren Buffett Talks Tech Titans",u:"http://www.insidermonkey.com/blog/apple-inc-aapl-alphabet-inc-googl-warren-buffett-talks-tech-titans-579676/",s:"Insider Monkey (blog)",sp:"Legendary investor Warren Buffett of Berkshire Hathaway isn\u0026#39;t exactly known for his knowledge of the tech space. In fact, as we detailed on Friday, his biggest tech bet ever, on International Business Machines Corp.",d:"May 8, 2017",tt:"1494260602",usg:"AFQjCNEqC5rOVCfGZvzmUc67IeyN5AqSOw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.insidermonkey.com/blog/apple-inc-aapl-alphabet-inc-googl-warren-buffett-talks-tech-titans-579676/\u0026cid=52779477075082\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFAW5suVnW7qqxLL3EbuzB-_dz-Cg"}],lead_story_doc_id:"7578477435045067171"},{nrel:544,idx:19,id:"52779481644215",lead_story_url:"http://investorplace.com/2017/05/alphabet-inc-googl-google-docs-attack-is-perfect-for-microsoft-corporation/",a:[{t:"How the Alphabet Inc (GOOGL) Google Docs Attack Helps Microsoft",u:"http://investorplace.com/2017/05/alphabet-inc-googl-google-docs-attack-is-perfect-for-microsoft-corporation/",s:"Investorplace.com",sp:"How the Alphabet Inc (GOOGL) Google Docs Attack Helps Microsoft. An invitation to view a shared Google Doc could end with your Gmail account being compromised.",d:"May 4, 2017",tt:"1493903250",usg:"AFQjCNEowct62FD8CJ1JG8CqxZHE20mU_A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2017/05/alphabet-inc-googl-google-docs-attack-is-perfect-for-microsoft-corporation/\u0026cid=52779481644215\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGDLA5VnOyt57xGVjXvON-dEeELYA"},{t:"Google Docs phishing scam takes Twitter by storm",u:"http://www.amny.com/news/google-docs-phishing-scam-takes-twitter-by-storm-1.13561132",s:"amNY",sp:"If you haven\u0026#39;t already heard by now, there was a major Google Doc phishing scam that had social media buzzing Wednesday afternoon.",d:"May 3, 2017",tt:"1493844918",usg:"AFQjCNEXz6hDjm0bzkuUDSnPRXQ9soM37Q",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.amny.com/news/google-docs-phishing-scam-takes-twitter-by-storm-1.13561132\u0026cid=52779481644215\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNEHpYDoqjBOBPuMOXSmN-A9Z_bZbg"},{t:"Google Docs warns customers about spam with malicious links",u:"http://www.inforum.com/news/4260958-google-docs-warns-customers-about-spam-malicious-links",s:"INFORUM",sp:"A security guard keeps watch as he walks past a logo of Google. REUTERS/Aly Song/File Photo. Alphabet Inc said on Wednesday, May 3, it was investigating widespread reports about a spam campaign in which recipients received emails from known\u0026nbsp;...",d:"May 3, 2017",tt:"1493843175",usg:"AFQjCNE9CKafN-7xlTIaQBo3DCB5E_RqMQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.inforum.com/news/4260958-google-docs-warns-customers-about-spam-malicious-links\u0026cid=52779481644215\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGvpyyojF_5yUy5ZA1r9upeFJwj4w"}],lead_story_doc_id:"6745241986379913451"},{nrel:5,idx:20,id:"52779492261552",lead_story_url:"https://seekingalpha.com/article/4072751-google-acquires-owlchemy-labs-vr-content",a:[{t:"Google Acquires Owlchemy Labs For VR Content",u:"https://seekingalpha.com/article/4072751-google-acquires-owlchemy-labs-vr-content",s:"Seeking Alpha",sp:"Owlchemy has made a name for itself by creating intuitive and responsive VR experiences that resonate with consumers and provide a tantalizing peek into business.",d:"May 12, 2017",tt:"1494618075",usg:"AFQjCNGSqMsxp4cSa-D3B_bmbcbLsXNzkQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://seekingalpha.com/article/4072751-google-acquires-owlchemy-labs-vr-content\u0026cid=52779492261552\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNH8e4y9Dvxr1wgFgvkchnXcB2m67g"}],lead_story_doc_id:"7626379199948205913"},{nrel:56,idx:21,id:"52779494066737",lead_story_url:"http://news.cmlviz.com/2017/05/15/breaking-alphabet-inc-nasdaq-googl--stock-through-resistance--technicals-hit-extreme-strength.html",a:[{t:"Breaking: Alphabet Inc (NASDAQ:GOOGL) Stock Through Resistance -- Technicals ...",u:"http://news.cmlviz.com/2017/05/15/breaking-alphabet-inc-nasdaq-googl--stock-through-resistance--technicals-hit-extreme-strength.html",s:"CML News",sp:"Breaking: Alphabet Inc (NASDAQ:GOOGL) has hit maximum technical strength -- watch the technical oscillators for momentum gaps.",d:"23 hours ago",tt:"1494852975",usg:"AFQjCNFZRGrmwQoe7mwduvWSv0VV7JYb7A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://news.cmlviz.com/2017/05/15/breaking-alphabet-inc-nasdaq-googl--stock-through-resistance--technicals-hit-extreme-strength.html\u0026cid=52779494066737\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFDhJLSTH9n05-YVmuEWBxFJH_BAw"}],lead_story_doc_id:"3687932530194380934"},{idx:22,id:"0",lead_story_url:"http://bangaloreweekly.com/alphabet-inc-goog-rating-increased-to-hold-at-vetr-inc-234353.html",a:[{t:"The Alphabet Inc (GOOG) Rating Increased to Hold at Vetr Inc.",u:"http://bangaloreweekly.com/alphabet-inc-goog-rating-increased-to-hold-at-vetr-inc-234353.html",s:"BangaloreWeekly",sp:"Alphabet Inc (NASDAQ:GOOG) was upgraded by equities researchers at Vetr from a &#8220;sell&#8221; rating to a &#8220;hold&#8221; rating in a report issued on Wednesday.",d:"12 hours ago",tt:"1494892457",usg:"AFQjCNHf0ojLemfjfQdaTexU7NkvU88B1A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://bangaloreweekly.com/alphabet-inc-goog-rating-increased-to-hold-at-vetr-inc-234353.html\u0026cid=0\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGKlGQ7dm26QhDdBK8kx5TQgMtoiQ"}],lead_story_doc_id:"7947818675047725718"},{nrel:2,idx:23,id:"52779495835385",lead_story_url:"http://thedailyleicester.com/morning-trending-tickers-alphabet-inc-nasdaq-goog/",a:[{t:"Morning Trending Tickers: Alphabet Inc. (NASDAQ: GOOG)",u:"http://thedailyleicester.com/morning-trending-tickers-alphabet-inc-nasdaq-goog/",s:"The Daily Leicester",sp:"With a market cap of 634.76B, Alphabet Inc. has a large market cap size. Alphabet Inc. (NASDAQ: GOOG) has been on the stock market since its IPO date on the 3/27/2014.",d:"13 hours ago",tt:"1494888750",usg:"AFQjCNGhl52RPBYh7hFpIy8qDBiF-QL_VQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://thedailyleicester.com/morning-trending-tickers-alphabet-inc-nasdaq-goog/\u0026cid=52779495835385\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFtiMW-UWGuikIhcUUJ6JJ5VzhSDA"},{t:"Wish to know which stocks you need to buy?: Alphabet Inc. (GOOG)",u:"http://news4j.com/2017/05/15/wish-to-know-which-stocks-you-need-to-buy-alphabet-inc-goog/",s:"The News Journal",sp:"The market cap of 634.76B for Alphabet Inc. in today\u0026#39;s market indicated its current strength, making the company\u0026#39;s shares a lucrative one.",d:"17 hours ago",tt:"1494877210",usg:"AFQjCNHLHTyQMP3RXPSIIFd9WO56_s9MMw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://news4j.com/2017/05/15/wish-to-know-which-stocks-you-need-to-buy-alphabet-inc-goog/\u0026cid=52779495835385\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNGpBkAiZGHZWilYOyEbL6z8iISAsQ"}],lead_story_doc_id:"13041860707382819101"},{nrel:4,idx:24,id:"52779495225222",lead_story_url:"http://hiramherald.com/alphabet-inc-goog-holding-above-the-trend-line/",a:[{t:"Alphabet Inc. (:GOOG) Holding Above The Trend Line",u:"http://hiramherald.com/alphabet-inc-goog-holding-above-the-trend-line/",s:"The Herald",sp:"Alphabet Inc. (:GOOG)\u0026#39; stock is holding above their moving averages, indicating a postitive uptrend for Technology company.",d:"19 hours ago",tt:"1494869840",usg:"AFQjCNF-YFEg2YOL2xpMra4uMCcFD6Q_jw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://hiramherald.com/alphabet-inc-goog-holding-above-the-trend-line/\u0026cid=52779495225222\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFlUBOOfPhupFh168SaMy3_H9VKDw"}],lead_story_doc_id:"4078649474329527568"},{nrel:159,idx:25,id:"52779492415613",lead_story_url:"https://www.thecerbatgem.com/2017/05/14/alphabet-inc-goog-ceo-sundar-pichai-sells-4000-shares-of-stock-updated.html",a:[{t:"Insider Selling: Alphabet Inc (GOOG) CEO Sells 4000 Shares of Stock",u:"https://www.thecerbatgem.com/2017/05/14/alphabet-inc-goog-ceo-sundar-pichai-sells-4000-shares-of-stock-updated.html",s:"The Cerbat Gem",sp:"Alphabet logo Alphabet Inc (NASDAQ:GOOG) CEO Sundar Pichai sold 4,000 shares of Alphabet stock in a transaction that occurred on Wednesday, May 3rd.",d:"May 13, 2017",tt:"1494686250",usg:"AFQjCNHkEI8S3OnNcofna5b4Q10Rd3cOug",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://www.thecerbatgem.com/2017/05/14/alphabet-inc-goog-ceo-sundar-pichai-sells-4000-shares-of-stock-updated.html\u0026cid=52779492415613\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNHjRnX9wjKI_vLGujOoiKQQ5Cw5aw"},{t:"The Alphabet Inc (GOOGL) Price Target Cut to $970.00",u:"http://bangaloreweekly.com/alphabet-inc-googl-price-target-cut-to-970-00-205072.html",s:"BangaloreWeekly",sp:"Other equities analysts also recently issued reports about the stock. B. Riley reiterated a buy rating and set a $1,032.00 price objective on shares of Alphabet in a research note on Friday, April 28th. Pivotal Research increased their price objective ...",d:"May 14, 2017",tt:"1494802350",usg:"AFQjCNEMeyZwJip0TIQX0S414Z1jbybuCg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://bangaloreweekly.com/alphabet-inc-googl-price-target-cut-to-970-00-205072.html\u0026cid=52779492415613\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNFzUaEaVJF2k_2HoFCNPsZFjd76aQ"},{t:"Alphabet Inc (GOOG) Rating Reiterated by Jefferies Group LLC",u:"https://baseballnewssource.com/markets/alphabet-inc-goog-stock-rating-reaffirmed-by-jefferies-group-llc-updated/705032.html",s:"BBNS",sp:"Alphabet logo Alphabet Inc (NASDAQ:GOOG)\u0026#39;s stock had its &#8220;buy&#8221; rating reaffirmed by stock analysts at Jefferies Group LLC in a research note issued on Friday, April 28th.",d:"May 13, 2017",tt:"1494695700",usg:"AFQjCNH_-30jMaFTiX2eWzz1iCGD32FIjQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=https://baseballnewssource.com/markets/alphabet-inc-goog-stock-rating-reaffirmed-by-jefferies-group-llc-updated/705032.html\u0026cid=52779492415613\u0026ei=AfUaWeikIImruASr5oroBg\u0026usg=AFQjCNEM7vAeUSjlOAlUhJCVKA-FRa72kQ"}],lead_story_doc_id:"7375514659540980425"},{idx:26,id:"-1"}],results_per_page:10,result_start_num:1,result_end_num:0,result_total_articles:136},related:{cols:[0,1,4,30,34,31,32,5,2,33,3],rows:[{id:"304466804484872",values:["GOOG","Alphabet Inc","937.08","0.00","chb","0.00","","659.28B","NASDAQ","304466804484872","GOOG"]},{id:"700029",values:["BIDU","Baidu Inc (ADR)","186.14","0.00","chb","0.00","","64.40B","NASDAQ","700029","BIDU"]},{id:"10670257",values:["YNDX","Yandex NV","28.90","0.00","chb","0.00","","9.76B","NASDAQ","10670257","YNDX"]},{id:"658890",values:["YHOO","Yahoo! Inc.","49.86","0.00","chb","0.00","","47.98B","NASDAQ","658890","YHOO"]},{id:"358464",values:["MSFT","Microsoft Corporation","68.43","+0.39","chg","0.57","","528.70B","NASDAQ","358464","MSFT"]},{id:"664197",values:["LNVGY","Lenovo Group Limited (ADR)","12.68","0.00","chb","0.00","","7.06B","OTCMKTS","664197","LNVGY"]},{id:"22144",values:["AAPL","Apple Inc.","155.70","0.00","chb","0.00","","809.71B","NASDAQ","22144","AAPL"]},{id:"18241",values:["IBM","Intl. Business Machines Corp.","151.51","0.00","chb","0.00","","143.42B","NYSE","18241","IBM"]},{id:"296878244325128",values:["FB","Facebook Inc","150.19","0.00","chb","0.00","","434.87B","NASDAQ","296878244325128","FB"]},{id:"820577505090886",values:["GOOAV","Google Inc. - Common Stock Ex-Distribution When Issued","568.67","","","","","","NASDAQ","820577505090886","GOOAV"]},{id:"32086821185414",values:["TWTR","Twitter Inc","19.23","0.00","chb","0.00","","14.52B","NYSE","32086821185414","TWTR"]}],visible_cols:[0,1,4,30,34,31,32,5]},related_str:"304466804484872,700029,10670257,658890,358464,664197,22144,18241,296878244325128,820577505090886,32086821185414",perf:[{u:"/finance?q=INDEXDJX:.DJI",name:"Dow Jones",cp:"0.00",p:"20,981.94",cid:"983582"},{u:"/finance?q=INDEXNASDAQ:.IXIC",name:"Nasdaq",cp:"0.00",p:"6,149.67",cid:"13756934"},{u:"/finance?catid=us-TRBC:57",name:"Technology",cp:"0.48",cid:"0"},{u:"/finance?q=NASDAQ:GOOG",name:"GOOG",cp:"0.00",p:"937.08",cid:"304466804484872"}],t:"NASDAQ:GOOG: {LAST} {CHANGE} ({CHANGE_PCT}%) - Alphabet Inc",ticker:"NASDAQ:GOOG",cid:"304466804484872"},stickyUrlArgs:"\u0026ei=EvUaWYmpKc_euQTe7ZmQDQ",chart:{_5d:"EXCHANGE%3DNASDAQ\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-240\na1494336600,936.95,22325\n1,934.97,17173\n2,935.32,22410\n3,931.29,14231\n4,932.51,8063\n5,933.19,6635\n6,932.51,14857\n7,932.86,7136\n8,932.6,8900\n9,932.87,8970\n10,932.99,15972\n11,931.8153,11874\n12,932,11554\n13,932.6099,9200\n14,932.88,12197\n15,933.355,8230\n16,934.675,17013\n17,935.7,15468\n18,936.42,14713\n19,935.49,21225\n20,935.13,8217\n21,936.18,9010\n22,935.3049,7511\n23,935.959,9198\n24,935.57,8100\n25,935.34,4381\n26,934.882,5969\n27,934.15,8700\n28,934.01,6400\n29,933.16,5189\n30,932.61,8325\n31,934.3,4500\n32,934.08,9241\n33,934.285,3440\n34,933.63,3846\n35,933.74,4684\n36,933.29,5650\n37,931.78,6755\n38,931.4944,8999\n39,932.42,4800\n40,931.75,2850\n41,932.15,2105\n42,932.51,2750\n43,932.42,1500\n44,932.075,3211\n45,931.56,1660\n46,931.63,3600\n47,932.215,4736\n48,932.75,2350\n49,932.38,2600\n50,932.57,3268\n51,932.15,8500\n52,932.38,1815\n53,932.85,1000\n54,932.31,3000\n55,932.25,2905\n56,931.88,3550\n57,932.47,1850\n58,932.65,1548\n59,932.8,6302\n60,933.11,2720\n61,934,6975\n62,934.16,3707\n63,934.4878,6834\n64,933.49,1625\n65,933.93,3700\n66,933.67,340\n67,933.91,2000\n68,933.82,1950\n69,933.469,1710\n70,933.605,2729\n71,933.24,1300\n72,932.48,2500\n73,932.8,3250\n74,932.8,3057\n75,932.58,3150\n76,932.5,700\n77,932.18,1500\n78,932.23,1213\n79,931.6,9689\n80,932.15,7738\n81,932.91,4500\n82,932.86,2016\n83,932.72,1200\n84,932.31,800\n85,932.85,2897\n86,932.46,1000\n87,932.86,2300\n88,933.2963,1725\n89,933.115,2358\n90,933.01,830\n91,932.44,3609\n92,932.33,3220\n93,932.4,900\n94,932.39,717\n95,932.1788,1910\n96,932.29,1670\n97,932.39,1803\n98,932.12,1700\n99,932.21,3810\n100,931.82,1500\n101,931.8334,5284\n102,932,1300\n103,931.4,1264\n104,931.6103,988\n105,931.51,2246\n106,931.51,2899\n107,931.925,3200\n108,931.791,700\n109,931.75,1900\n110,931.735,1100\n111,931.58,5256\n112,931.36,4866\n113,931.27,1800\n114,930.59,4454\n115,930.8133,11084\n116,930.75,9600\n117,930.8432,4650\n118,930.4604,12865\n119,930.185,1122\n120,930.01,2951\n121,930.23,4940\n122,929.72,2500\n123,929.6901,2307\n124,929.6,3575\n125,929.82,1900\n126,929.9,4703\n127,930,4000\n128,929.87,1409\n129,929.76,1064\n130,929.95,2100\n131,930.1497,1400\n132,930.15,2988\n133,930.6201,3238\n134,931.05,2893\n135,931.0831,1608\n136,931.3175,7673\n137,931.33,2028\n138,931.34,2050\n139,931.67,2000\n140,931.5,2987\n141,931.11,1500\n142,931.51,1092\n143,931.5,2560\n144,931.76,1700\n145,931.56,1500\n146,931.34,1162\n147,931.44,3100\n148,931.68,400\n149,931.57,960\n150,931.6,1668\n151,931.22,8200\n152,931.05,2157\n153,930.77,2125\n154,930.79,1966\n155,930.75,10863\n156,930.998,2406\n157,931.17,2351\n158,931.13,1450\n159,931.185,1800\n160,931.11,2003\n161,930.78,2500\n162,931.08,2134\n163,931.06,8000\n164,931.1,1000\n165,931.16,5037\n166,931.27,2465\n167,931.71,3091\n168,931.89,900\n169,932,5210\n170,931.78,3715\n171,931.87,1000\n172,931.98,800\n173,931.975,2599\n174,931.79,1500\n175,931.74,1000\n176,931.94,4127\n177,932.18,500\n178,932.25,4598\n179,932.21,4500\n180,932.11,2561\n181,932.15,5300\n182,931.43,4111\n183,931.6319,4243\n184,930.86,4875\n185,931.18,4210\n186,931.5,1700\n187,930.85,7474\n188,931.45,2549\n189,930.62,3580\n190,931.2,6528\n191,931.07,10274\n192,931.32,8463\n193,931.28,13725\n194,931.59,9449\n195,932.17,200379\n720,931.98,15077\n721,928.15,14843\n722,929.742,6545\n723,929.24,4996\n724,928.34,5140\n725,927.065,13131\n726,927.29,9100\n727,927.38,13927\n728,927.76,3984\n729,927.29,9390\n730,927.19,2157\n731,926.53,8355\n732,926.92,9483\n733,926.65,4394\n734,927.8,4310\n735,927.84,3886\n736,927.145,4800\n737,926.6,10375\n738,926.43,6243\n739,926.02,6701\n740,925.87,6962\n741,926.24,4375\n742,926.52,6400\n743,926.54,6268\n744,926.42,2750\n745,927.07,4396\n746,925.995,6873\n747,926.38,2660\n748,926.5628,5200\n749,925.96,3300\n750,925.56,8221\n751,925.54,6219\n752,925.16,4606\n753,926.2,4483\n754,926.14,5634\n755,925.71,7543\n756,926.38,11338\n757,926.52,6278\n758,926.64,4190\n759,926.38,2400\n760,926.13,2750\n761,926.21,1800\n762,926.84,4800\n763,925.85,12858\n764,926.48,2500\n765,925.69,2300\n766,925.54,8151\n767,925.93,4298\n768,925.98,5349\n769,926.16,1970\n770,926.15,2574\n771,926.21,2534\n772,926.17,1200\n773,926.64,2100\n774,926.6,3500\n775,926.405,2620\n776,926.85,4100\n777,927.035,4128\n778,927.5,4471\n779,927.76,5513\n780,928.5,3539\n781,927.64,3840\n782,927.75,3599\n783,927.96,1802\n784,927.69,1020\n785,927.7,3998\n786,927.47,900\n787,927.75,5307\n788,927.56,1206\n789,927.87,4800\n790,927.36,1912\n791,927.195,2186\n792,927.515,1700\n793,927.48,1800\n794,927.905,5173\n795,927.82,7094\n796,928.495,6871\n797,928.43,3341\n798,928.1,3200\n799,927.69,2879\n800,927.68,4180\n801,927.3816,3544\n802,927.6184,4169\n803,927.34,3222\n804,927.859,3100\n805,927.53,2002\n806,928.255,1864\n807,927.82,3112\n808,927.4246,600\n809,927.66,5776\n810,927.53,1100\n811,927.61,828\n812,927.36,1900\n813,927.84,6914\n814,927.6186,1129\n815,927.66,2500\n816,927.99,2580\n817,927.9,500\n818,928,1000\n819,927.8474,720\n820,928.25,3682\n821,928.18,800\n822,928.16,1600\n823,927.99,2400\n824,928.3,1000\n825,928.77,850\n826,928.26,947\n827,928.44,2200\n828,928.27,1700\n829,928.52,6497\n830,928.42,4322\n831,928.62,2800\n832,928.0934,1496\n833,928.115,2000\n834,928.69,1783\n835,928.08,1159\n836,928.68,4583\n837,928.94,1300\n838,929.64,2350\n839,929.3493,3247\n840,929.28,1700\n841,929.26,2475\n842,929.0152,1945\n843,929,2708\n844,928.91,3833\n845,929.21,1700\n846,929.4,1400\n847,929.46,1900\n848,929.45,2857\n849,929.584,1607\n850,929.89,2100\n851,930.0909,3682\n852,930.37,2200\n853,930.24,3290\n854,929.91,3000\n855,930.13,1900\n856,930.29,2300\n857,929.37,5232\n858,929.785,10114\n859,930.08,4593\n860,929.73,2209\n861,929.62,6296\n862,929.45,1700\n863,929.57,4300\n864,929.39,2300\n865,929.24,4992\n866,929.35,2548\n867,929.36,4243\n868,929.02,1600\n869,929.31,2897\n870,928.9125,3628\n871,928.78,5000\n872,929.09,800\n873,929.12,1300\n874,929.0719,1810\n875,929.31,309\n876,929.58,1800\n877,929.84,4900\n878,929.88,2000\n879,929.95,2000\n880,929.76,3231\n881,929.68,4526\n882,929.59,1600\n883,929.5,3500\n884,929.51,1800\n885,929.56,3700\n886,929.59,1900\n887,929.82,3300\n888,930.23,2300\n889,929.94,4857\n890,930.7,4300\n891,930.315,10180\n892,929.68,7000\n893,930.04,6455\n894,929.82,3552\n895,930.11,5245\n896,929.65,2900\n897,930.07,6105\n898,930.7,4320\n899,929.83,6345\n900,929.15,2300\n901,928.96,3800\n902,928.9,4600\n903,928.02,5498\n904,927.21,7041\n905,927.2,7830\n906,927.65,3209\n907,927.57,6329\n908,927.52,300\n909,927.76,7195\n910,927.94,8821\n911,927.9,9979\n912,928.19,5686\n913,928.29,5508\n914,928.38,6925\n915,928.78,43915\na1494509400,925.91,13739\n1,925,3923\n2,926.0007,4312\n3,925.515,4291\n4,926.91,2395\n5,926.73,5206\n6,926.28,4300\n7,926.5,3942\n8,926.6,6257\n9,926.1779,3600\n10,926.3557,2400\n11,924.18,9184\n12,923.33,10286\n13,923.5,3204\n14,923.5,6864\n15,924.68,2407\n16,924.74,3207\n17,923.6,10153\n18,925.26,3010\n19,926.34,4215\n20,926.49,2985\n21,926.46,5675\n22,926.11,2282\n23,926.78,3604\n24,926.17,3671\n25,925.705,2537\n26,926.439,2683\n27,925.89,2700\n28,925.12,3300\n29,926.86,5134\n30,926.96,1920\n31,925.65,3192\n32,925.87,1103\n33,926.74,1210\n34,926.5,3165\n35,926.21,1500\n36,926.65,2800\n37,926.19,500\n38,926.0134,1573\n39,926.01,1300\n40,925.77,2253\n41,925.33,4499\n42,925.29,1399\n43,925.57,900\n44,925.65,800\n45,925.71,700\n46,925.61,4089\n47,925.46,1134\n48,925.13,1699\n49,925.57,2289\n50,925.19,4156\n51,925.36,700\n52,925.571,11071\n53,925.7,1700\n54,925.775,400\n55,925.68,1000\n56,925.8,200\n57,925.53,931\n58,925.6542,1225\n59,925.4,900\n60,925.52,1198\n61,926.06,1100\n62,926.37,600\n63,926.75,2524\n64,926.45,400\n65,925.9073,965\n66,926.26,700\n67,926.22,1910\n68,926.15,550\n69,926.2519,800\n70,926.4,200\n71,926.2,3710\n72,926.27,954\n73,926.3215,252\n74,926.24,1574\n75,926.405,900\n76,926.69,500\n77,926.89,1511\n78,926.84,1600\n79,927.09,1833\n80,927.2,600\n81,927.36,650\n82,928,2200\n83,928.2,3457\n84,928.4076,1281\n85,928.9,3147\n86,928.54,1210\n87,928,5119\n88,928.36,1000\n89,928.5,301\n90,928.21,600\n91,928.19,500\n92,928.655,1400\n93,928.72,400\n94,928.7982,1750\n95,928.54,800\n96,929.23,3361\n97,928.9,2650\n98,929.17,1922\n99,929.48,1982\n100,929.32,1572\n101,929.5,2840\n102,929.76,7000\n103,929.64,2910\n104,929.35,1500\n105,929.06,1100\n106,929.16,1833\n107,929.19,800\n108,929.4154,700\n109,929.665,2450\n110,929.09,4096\n111,929.38,1800\n112,929.56,800\n113,929.55,1000\n114,929.552,400\n115,929.77,2245\n116,929.66,1400\n117,929.66,1050\n118,929.75,500\n119,929.665,140\n120,929.88,2083\n121,930.145,1301\n122,930.66,1985\n123,930.79,2350\n124,931.17,1300\n125,930.9855,1760\n126,931.17,200\n127,931.98,4766\n128,932.3,6079\n129,932,3017\n130,932.1,1710\n131,932.1677,2250\n132,932.1,1413\n133,931.9,1600\n134,931.8,1025\n135,931.8422,4907\n136,931.8138,1090\n137,931.63,1800\n138,931.52,2100\n139,931.33,1800\n140,931.24,2696\n141,931.38,2341\n142,931.5,1000\n143,931.5,1720\n144,931.53,1880\n145,932.05,3814\n146,931.61,2300\n147,931.6,2806\n148,931.36,3222\n149,931.09,3491\n150,931.22,2035\n151,930.6758,2169\n152,930.68,1400\n153,930.78,900\n154,930.3121,1630\n155,930.14,3944\n156,930.11,900\n157,929.66,4940\n158,929.645,1400\n159,930.01,2300\n160,930.04,700\n161,929.71,900\n162,929.74,3767\n163,929.945,500\n164,929.71,500\n165,930,1400\n166,930,2508\n167,929.87,324\n168,929.8,900\n169,930.08,1532\n170,929.84,600\n171,929.55,1400\n172,930.28,2460\n173,930.31,500\n174,929.75,500\n175,930.23,600\n176,930.26,1600\n177,930.07,3250\n178,929.76,1200\n179,929.91,2033\n180,930.03,800\n181,930.32,2400\n182,930.85,3200\n183,930.83,4652\n184,930.7923,853\n185,930.97,4094\n186,930.925,700\n187,931.5986,5900\n188,930.82,5862\n189,930.77,4100\n190,930.9,6009\n191,930.66,2900\n192,930.52,2200\n193,930.42,9364\n194,930.38,13538\n195,930.6,79260\n720,933,31633\n721,930.81,13504\n722,930.3,6029\n723,930.882,7733\n724,931.07,5198\n725,930.99,7263\n726,931.525,2700\n727,930.9,5500\n728,931.39,4600\n729,931.425,4701\n730,930.2508,3400\n731,929.4,4900\n732,929.12,13617\n733,929.26,5746\n734,928.38,3000\n735,928.93,4723\n736,929.25,3700\n737,928.65,700\n738,928.63,2413\n739,929.035,3934\n740,929,1000\n741,930.655,7785\n742,930.29,2970\n743,929.8,4221\n744,931.14,7700\n745,931.51,4650\n746,931.128,2106\n747,931.41,2550\n748,931.06,5741\n749,929.87,4133\n750,929.82,2800\n751,929.56,5415\n752,930.08,1710\n753,929.64,2012\n754,930.13,500\n755,930.46,3447\n756,930.6,2581\n757,930.83,1901\n758,930.14,1960\n759,929.385,7938\n760,929.6333,2500\n761,929.66,2104\n762,929.035,3785\n763,929.01,1950\n764,929.96,3400\n765,929.82,2600\n766,929.62,3700\n767,929.47,2490\n768,929.58,3385\n769,930.1,14925\n770,930.27,900\n771,929.905,1775\n772,929.77,1000\n773,930,1600\n774,929.91,707\n775,929.89,400\n776,930.46,600\n777,930.3,900\n778,931.01,2847\n779,930.9,600\n780,930.99,1800\n781,931.86,3300\n782,931.6817,3230\n783,931.68,1300\n784,931.9,2000\n785,931.66,2447\n786,931.79,2576\n787,931.96,3035\n788,932,2163\n789,931.84,1565\n790,932.0527,4099\n791,931.71,700\n792,931.59,1400\n793,932.07,1300\n794,932.5,2439\n795,931.99,1700\n796,931.81,2514\n797,931.63,1994\n798,931.34,834\n799,931.76,2121\n800,931.64,3398\n801,931.47,200\n802,931.89,3654\n803,931.76,1179\n804,931.805,2185\n805,931.8,700\n806,932.0152,1875\n807,932.25,1200\n808,932.129,860\n809,932.2,1100\n810,931.68,1200\n811,931.61,1200\n812,931.5879,1100\n813,931.585,6288\n814,931.63,3300\n815,931.8,2100\n816,931.85,1600\n817,932.13,1000\n818,932.04,600\n819,931.63,1093\n820,931.99,2200\n821,932.06,900\n822,931.93,1850\n823,931.76,4801\n824,931.35,1700\n825,931.57,4127\n826,931.5977,640\n827,931.66,2138\n828,931.52,2000\n829,931.52,2050\n830,931.59,900\n831,931.4,6100\n832,931.53,2800\n833,931.33,1600\n834,930.915,3328\n835,931.46,1186\n836,931.87,2500\n837,932.0072,1700\n838,932.01,4867\n839,932.2,2459\n840,931.86,2921\n841,931.79,2200\n842,931.68,1600\n843,931.58,1500\n844,931.8,1600\n845,931.76,2404\n846,931.85,7561\n847,931.6,3317\n848,931.7873,1925\n849,931.93,6736\n850,932.01,900\n851,932.1061,400\n852,932.4,4062\n853,932.22,700\n854,932.47,2620\n855,932.78,2400\n856,932.49,2682\n857,932.55,1100\n858,932.32,2741\n859,932.55,3200\n860,932.75,1157\n861,932.77,5653\n862,932.67,2588\n863,932.77,400\n864,932.71,1446\n865,932.82,3800\n866,932.8005,515\n867,932.92,9867\n868,932.77,2400\n869,932.79,300\n870,932.71,3774\n871,932.88,1529\n872,932.8638,700\n873,932.86,1575\n874,932.94,1853\n875,932.92,6861\n876,932.97,3001\n877,932.82,700\n878,932.55,3527\n879,932.65,2577\n880,932.3386,1000\n881,932.17,700\n882,932.22,2641\n883,932.44,2700\n884,932.295,800\n885,932.19,950\n886,932.36,1750\n887,932.2828,497\n888,932.195,1525\n889,931.935,1100\n890,931.79,8559\n891,931.7,3700\n892,932.064,2692\n893,932.1,400\n894,932.05,2253\n895,932.04,1100\n896,932.21,1900\n897,932.05,2000\n898,931.7087,1800\n899,931.5902,500\n900,931.35,1744\n901,931.38,8460\n902,931.14,3529\n903,931.4699,3000\n904,931,1825\n905,931.19,6702\n906,931.6163,3606\n907,931.91,2900\n908,931.52,3933\n909,931.58,4200\n910,931.54,1400\n911,931.68,5760\n912,931.575,3625\n913,931.65,4520\n914,931.79,7079\n915,932.22,110294\na1494855000,932.95,23796\n1,930.168,7780\n2,932.13,10692\n3,933.67,8346\n4,933.87,8200\n5,934.215,7956\n6,935,8438\n7,935.38,9679\n8,936.19,3880\n9,935.99,7526\n10,935.72,3446\n11,935.32,4694\n12,934.9613,3650\n13,935.26,3343\n14,934.91,6884\n15,935.34,4480\n16,934.89,3581\n17,933.44,2407\n18,934.42,3425\n19,933.9,2200\n20,933.55,2150\n21,933.97,4522\n22,934.61,3590\n23,934.13,900\n24,934.1,3294\n25,933.785,1000\n26,934.1,2200\n27,934.67,2769\n28,934.92,9891\n29,935.26,1522\n30,935.93,4354\n31,936.48,5431\n32,936.31,790\n33,936.1925,427\n34,935.934,3502\n35,935.9,2000\n36,935.95,2184\n37,936.42,1724\n38,937.22,7569\n39,937.4411,3468\n40,937.43,2567\n41,937.202,6672\n42,938.24,3527\n43,937.69,1400\n44,937.6,1800\n45,937.35,5045\n46,937.34,1000\n47,937.28,600\n48,937.03,1991\n49,937.28,2700\n50,936.74,1514\n51,936.99,1034\n52,937.09,1940\n53,936.43,1200\n54,936.2338,3266\n55,935.925,800\n56,936.17,2396\n57,936.49,2005\n58,937,1200\n59,936.56,6020\n60,936.33,100\n61,935.645,1900\n62,935.6,1320\n63,936.03,1000\n64,935.82,800\n65,935.795,910\n66,935.82,500\n67,935.6,1500\n68,935.44,1013\n69,936.25,8801\n70,936.11,5220\n71,936.29,300\n72,935.66,1259\n73,936.1625,1900\n74,936,10697\n75,935.7475,1800\n76,936.07,1200\n77,936.055,900\n78,936.23,1209\n79,936.2,1640\n80,936.1347,1935\n81,936.15,400\n82,935.95,1400\n83,936.1,1435\n84,935.92,1000\n85,935.97,100\n86,935.51,800\n87,935.85,1000\n88,935.44,702\n89,934.98,2024\n90,935.116,5470\n91,934.9418,1200\n92,935.77,1300\n93,936.14,1400\n94,935.94,700\n95,935.87,1100\n96,935.9115,1915\n97,936.6,2500\n98,935.93,1500\n99,936.15,1191\n100,935.92,1011\n101,935.76,700\n102,935.83,1500\n103,935.63,602\n104,936,2300\n105,935.75,2046\n106,935.8206,200\n107,935.67,100\n108,936.2633,1000\n109,936.2,1200\n110,936.23,700\n111,936.6,800\n112,936.51,1268\n113,936,1502\n114,935.75,300\n115,936.05,1000\n116,936.04,800\n117,935.98,400\n118,935.9283,500\n119,936.23,1640\n120,936.26,1700\n121,936.41,1400\n122,936.2,500\n123,936.25,913\n124,936.28,1000\n125,936.35,500\n126,936.39,3100\n127,936.238,250\n128,936.25,1206\n129,936.29,1400\n130,936.56,953\n131,936.8827,1839\n132,937.0556,3356\n133,937.1112,1080\n134,937.125,1300\n135,937.19,1000\n136,937.14,700\n137,936.905,7800\n138,936.88,2376\n139,936.89,700\n140,936.82,2429\n141,937.15,8653\n142,937.37,1779\n143,937.57,2100\n144,937.21,3299\n145,937.2,300\n146,937,898\n147,936.5023,559\n148,936.49,1300\n149,936.31,2606\n150,936.25,1700\n151,936.61,1000\n152,936.44,748\n153,936.72,1500\n154,936.89,600\n155,937.14,4920\n156,937.01,600\n157,937.19,2633\n158,936.93,2700\n159,937.2,400\n160,937.701,2066\n161,937.8,1700\n162,937.203,600\n163,937.68,2500\n164,937.48,1499\n165,937.53,1700\n166,937.72,2100\n167,937.55,500\n168,937.61,4200\n169,937.61,3323\n170,937.26,2511\n171,937.125,3997\n172,937.285,1540\n173,937.32,3100\n174,937.13,10801\n175,937.24,1400\n176,937.225,1280\n177,937.1726,201\n178,937.29,1700\n179,937.12,600\n180,937.42,2612\n181,937.35,2533\n182,937.33,2223\n183,937,2900\n184,936.57,1525\n185,936.4011,6569\n186,936.2575,3297\n187,936.15,5241\n188,935.95,2300\n189,936.24,5619\n190,936.28,10689\n191,937,4961\n192,936.63,5000\n193,936.6585,6201\n194,936.59,14418\n195,937.08,159585\n",_5Y:"EXCHANGE%3DNASDAQ\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-240\na1337371200,299.9,0,5\n1,295.469,0,5\n2,285.2,0,4\n3,289.93,0,5\n4,281.9727,0,5\n5,285.45,0,5\n6,289.74,0,5\n7,292.7,0,4\n8,287.97,0,5\n9,305.1,0,5\n10,317.16,0,5\n11,320.34,0,5\n12,320.68,0,5\n13,338.23,0,5\n14,338.976,0,5\n15,342.2,0,5\n16,352.72,0,4\n17,354.49,0,5\n18,366.63,0,5\n19,376.87,0,5\n20,383.44,0,5\n21,372,0,5\n22,340.554,0,5\n23,337.24,0,5\n24,343.615,0,4\nTIMEZONE_OFFSET=-300\na1352494800,331.18,0,5\n1,323.27,0,5\na1353693600,333.65,0,4\na1354309200,348.84,0,5\n1,341.7629,0,5\n2,350.6306,0,5\n3,357.46,0,5\n4,349.65,0,4\n5,368.62,0,5\n6,369.63,0,5\n7,351.9,0,5\n8,376.46,0,5\n9,387.41,0,5\n10,392.29,0,5\n11,396.05,0,5\n12,399.46,0,5\n13,402.69,0,5\n14,415.34,0,5\nTIMEZONE_OFFSET=-240\na1363377600,406.744,0,5\n1,404.75,0,5\na1364500800,396.697,0,5\na1365192000,391.13,0,5\n1,394.63,0,5\n2,399.5351,0,5\n3,400.31,0,5\n4,422.44,0,5\n5,439.67,0,5\n6,454.1354,0,5\n7,436.22,0,5\n8,435.173,0,5\n9,439.43,0,5\n10,437.08,0,5\n11,440.02,0,5\n12,439.74,0,5\n13,446.3,0,5\n14,461.038,0,5\n15,447.851,0,5\n16,442.23,0,5\n17,452.83,0,5\n18,444.76,0,5\n19,428.026,0,5\n20,434.67,0,5\n21,423.03,0,5\n22,439.35,0,5\n23,444.089,0,5\n24,451.1,0,5\n25,437.76,0,5\n26,435.74,0,5\n27,435.56,0,5\n28,505.1983,0,5\n29,507.092,0,5\n30,513.0065,0,5\nTIMEZONE_OFFSET=-300\na1383944400,507.51,0,5\n1,516.26,0,5\n2,515.43,0,5\n3,529.2652,0,5\n4,534.4,0,5\n5,529.865,0,5\n6,549.76,0,5\n7,558.6408,0,5\n8,551.95,0,5\n9,564.52,0,5\n10,574.6897,0,5\n11,561.35,0,5\n12,589.89,0,5\n13,588.131,0,5\n14,600.8,0,5\n15,601.293,0,5\n16,607.22,0,5\n17,606.7876,0,5\nTIMEZONE_OFFSET=-240\na1394827200,585.814,0,5\n1,590.93,0,5\n2,559.51,6085594,5\n3,543.14,17678895,5\n4,530.6,18810631,5\na1397764800,536.1,18090755,5\na1398456000,516.18,10950930,5\n1,527.93,11351296,5\n2,518.73,10370780,5\n3,520.63,7934608,5\n4,552.7,7791333,5\n5,559.89,6865466,5\n6,556.33,8526472,5\n7,551.76,6584780,5\n8,556.36,11835551,5\n9,577.24,9669279,5\na1404417600,584.73,4524364,5\na1405108800,579.18,7055273,5\n1,595.08,11887529,5\n2,589.02,6951032,5\n3,566.07,7394427,5\n4,568.77,6916122,5\n5,573.48,6691630,5\n6,582.56,4998946,5\n7,571.6,7071630,5\n8,586.08,5880849,5\n9,575.62,6506366,5\n10,596.08,9934581,5\n11,577.1,8245107,5\n12,575.28,6658611,5\n13,544.49,10703962,5\n14,511.17,17737539,5\n15,539.78,12172562,5\n16,559.08,7710006,5\nTIMEZONE_OFFSET=-300\na1415394000,541.01,7604875,5\n1,544.4,5844716,5\n2,537.5,8844766,5\n3,541.83,6151383,5\n4,525.26,8862225,5\n5,518.66,9515311,5\n6,516.35,16240316,5\n7,534.03,6656928,5\n8,524.81,5968508,5\n9,496.17,12415664,5\n10,508.08,11919169,5\n11,539.95,9433420,5\n12,534.52,14883499,5\n13,531,10137523,5\n14,549.01,7894272,5\n15,538.95,5490218,5\n16,558.4,8986113,5\n17,567.685,8735953,5\nTIMEZONE_OFFSET=-240\na1426276800,547.32,7747100,5\n1,560.36,9369516,5\n2,548.34,9822578,5\na1428004800,535.53,6537090,5\na1428696000,540.01,6754557,5\n1,524.05,9992623,5\n2,565.06,14196810,5\n3,537.9,9438178,5\n4,538.22,7331908,5\n5,533.85,7167800,5\n6,540.11,8040103,5\n7,532.11,7558787,5\n8,533.33,8296914,5\n9,532.33,6967688,5\n10,536.69,7725338,5\n11,531.69,7179167,5\na1435867200,523.4,7370673,5\na1436558400,530.13,7973482,5\n1,672.93,23168356,5\n2,623.56,19822233,5\n3,625.61,9158129,5\n4,635.3,8106123,5\n5,657.12,12662021,5\n6,612.48,11762338,5\n7,630.38,19014228,5\n8,600.7,12303487,5\n9,625.77,7255703,5\n10,629.25,12481198,5\n11,611.97,10236431,5\n12,626.91,12403798,5\n13,643.61,9870205,5\n14,662.2,7914612,5\n15,702,16171061,5\n16,710.81,10460669,5\nTIMEZONE_OFFSET=-300\na1446843600,733.76,8506441,5\n1,717,8766961,5\n2,756.6,8593782,5\n3,750.26,5708359,5\n4,766.81,11708811,5\n5,738.87,10554569,5\n6,739.31,11774138,5\na1450990800,748.4,4985172,5\n1,758.88,6075172,5\na1452286800,714.47,12570522,5\n1,694.45,12387727,5\n2,725.25,10114656,4\n3,742.95,11221862,5\n4,683.57,27512420,5\n5,682.4,15581309,5\n6,700.91,8405222,4\n7,705.07,9776210,5\n8,710.89,9980109,5\n9,726.82,11260474,5\nTIMEZONE_OFFSET=-240\na1458331200,737.6,9663380,5\na1458849600,735.3,6082878,5\na1459540800,749.91,8270183,5\n1,739.15,6027124,5\n2,759,7199975,5\n3,718.77,13792005,5\n4,693.01,13104855,5\n5,711.12,8367239,5\n6,710.83,7426421,5\n7,709.74,8551375,5\n8,732.66,8387428,5\n9,722.34,5951198,4\n10,719.41,6691871,5\n11,691.72,9164340,5\n12,675.22,11352927,5\n13,699.21,9689832,5\n14,705.63,5753907,4\n15,719.85,5614091,5\n16,742.74,6098762,5\n17,768.79,11103338,5\n18,782.22,8713875,5\n19,783.22,4928725,5\n20,775.42,4471434,5\n21,769.54,5045157,5\n22,771.46,5223939,5\n23,759.66,5492603,4\n24,768.88,7196611,5\n25,786.9,1411937,5\n26,777.29,6696366,5\n27,775.08,5945172,5\n28,778.53,5702583,5\n29,799.37,7940383,5\n30,795.37,11940774,5\n31,762.02,10830041,5\nTIMEZONE_OFFSET=-300\na1478898000,754.02,12736062,5\n1,760.54,10362173,5\na1480096800,761.68,4989585,4\na1480712400,750.5,10668090,5\n1,789.29,8155851,5\n2,790.8,10023771,5\n3,789.91,4990560,5\n4,771.82,4457367,4\n5,806.15,5705563,4\n6,807.88,5969633,5\n7,805.02,5245892,4\n8,823.31,11004604,5\n9,801.49,10432459,5\n10,813.67,5707061,5\n11,828.07,6480338,5\n12,828.64,5114558,4\n13,829.08,6697629,5\n14,843.25,6101981,5\nTIMEZONE_OFFSET=-240\na1489780800,852.12,6079350,5\n1,814.43,10564532,5\n2,829.56,7759085,5\n3,824.67,6583880,5\na1492113600,823.56,4081479,5\na1492804800,843.19,4968681,5\n1,905.96,9584751,5\n2,927.13,8536163,5\n3,932.22,5971546,5\n",corp_actions:"[{\"_adjustment_factor\":\"0.4995\",\"_date\":\"1396531800\",\"_quote\":\"NASD:GOOG\",\"_type\":\"stock_dividend\"}]",related_items:[{ticker:"INDEXDJX:.DJI",name:"Dow Jones",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"INDEXNASDAQ:.IXIC",name:"Nasdaq",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"NASDAQ:BIDU",name:"BIDU",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:YNDX",name:"YNDX",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:YHOO",name:"YHOO",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:MSFT",name:"MSFT",timezone_offset:-18000,is_index:false},{ticker:"OTCMKTS:LNVGY",name:"LNVGY",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:AAPL",name:"AAPL",timezone_offset:-18000,is_index:false},{ticker:"NYSE:IBM",name:"IBM",timezone_offset:-18000,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+_setStickyUrlParams("ei=EvUaWYmpKc_euQTe7ZmQDQ");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+google.finance.renderRecentQuotes();
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="id-r-perf-quotes g-unit g-first"></div>
+<div id=r-perf-charts class="id-r-perf-charts g-unit"></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div class="id-market-data-div nwp g-floatfix">
+<div id=price-panel class="id-price-panel goog-inline-block">
+<div>
+<span class="pr">
+<span id="ref_304466804484872_l">937.08</span>
+</span>
+<div class="id-price-change nwp">
+<span class="ch bld"><span class="chb" id="ref_304466804484872_c">0.00</span>
+<span class="chb" id="ref_304466804484872_cp">(0.00%)</span>
+</span>
+</div>
+</div>
+<div>Pre-market:&nbsp;<span class=bld id="ref_304466804484872_el">939.00</span>
+<span id="ref_304466804484872_ec" class="chg">+1.92</span>
+<span id="ref_304466804484872_ecp" class="chg">(0.20%)</span>
+<div id="ref_304466804484872_elt">May 16, 8:28AM EDT&nbsp;&nbsp;<div class=mdata-dis>
+<span class=dis-large><nobr>NASDAQ
+real-time data -
+<a href="//www.google.com/help/stock_disclaimer.html#realtime"  class=dis-large>Disclaimer</a>
+</nobr></span>
+<div>Currency in USD</div>
+</div>
+</div>
+</div>
+</div>
+<div class="snap-panel-and-plusone">
+<div class="snap-panel">
+<table class="snap-data">
+<tr>
+<td class="key"
+          data-snapfield="range">Range
+</td>
+<td class="val">&nbsp;&nbsp;&nbsp;&nbsp;-
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="range_52week">52 week
+</td>
+<td class="val">663.28 - 938.25
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="open">Open
+</td>
+<td class="val">&nbsp;&nbsp;&nbsp;&nbsp;-
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="vol_and_avg">Vol / Avg.
+</td>
+<td class="val">691.00/1.36M
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="market_cap">Mkt cap
+</td>
+<td class="val">659.28B
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="pe_ratio">P/E
+</td>
+<td class="val">30.20
+</td>
+</tr></table><table class="snap-data">
+<tr>
+<td class="key"
+          data-snapfield="latest_dividend-dividend_yield">Div/yield
+</td>
+<td class="val">&nbsp;&nbsp;&nbsp;&nbsp;-
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="eps">EPS
+</td>
+<td class="val">31.02
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="shares">Shares
+</td>
+<td class="val">346.97M
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="beta">Beta
+</td>
+<td class="val">0.93
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="inst_own">Inst. own
+</td>
+<td class="val">72%
+</td>
+</tr>
+</table>
+</div>
+<div class="plusone-box" id="plusone-box">
+<g:plusone size="standard" source="google:FINANCE"></g:plusone></div>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+<div id="sharebox-data"
+     itemscope="itemscope"
+     itemtype="http://schema.org/Intangible/FinancialQuote">
+<meta itemprop="name"
+        content="Alphabet Inc" />
+<meta itemprop="url"
+        content="https://www.google.com/finance?cid=694653" />
+<meta itemprop="imageUrl"
+        content="https://www.google.com/finance/chart?cht=g&q=NASDAQ:GOOG&tkr=1&p=1d&enddatetime=2017-05-15T16:00:01Z" />
+<meta itemprop="tickerSymbol"
+        content="GOOG" />
+<meta itemprop="exchange"
+        content="NASDAQ" />
+<meta itemprop="exchangeTimezone"
+        content="America/New_York" />
+<meta itemprop="price"
+        content="937.08" />
+<meta itemprop="priceChange"
+        content="0.00" />
+<meta itemprop="priceChangePercent"
+        content="0.00" />
+<meta itemprop="isPreMarket"
+        content="true">
+<meta itemprop="afterHoursPrice"
+        content="939.00">
+<meta itemprop="afterHoursPriceChange"
+        content="+1.92">
+<meta itemprop="afterHoursPriceChangePercent"
+        content="0.20">
+<meta itemprop="afterHoursQuoteTime"
+        content="2017-05-16T12:28:27Z">
+<meta itemprop="quoteTime"
+        content="2017-05-15T16:00:01Z" />
+<meta itemprop="dataSource"
+        content="NASDAQ real-time data" />
+<meta itemprop="dataSourceDisclaimerUrl"
+        content="//www.google.com/help/stock_disclaimer.html#realtime" />
+<meta itemprop="priceCurrency"
+        content="USD" />
+</div>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>News</h3>
+</div>
+<div class=g-unit>
+<div id=news-panel-tabs class="id-news-tabs" style="display:none;">
+<div class="goog-tab goog-tab-selected">
+<a id=news_tab_title class=t>
+<b class=t><b class=t>Relevance</b></b></a>
+</div>
+<div class=goog-tab>
+<a id=news_by_date_tab_title class=t>
+<b class=t><b class=t>Date</b></b></a>
+</div>
+</div>
+</div>
+</div>
+<div id=tabs-clear class="id-tabs-clear goog-tab-bar-clear hide"></div>
+<div id=news_div_cont class=id-news_div_cont style="display:none;"></div>
+<div id=news_by_date_div_cont class=id-news_by_date_div_cont style="display:none;"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ" >All news for Alphabet Inc &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label
+                       class="id-ad-label invisible">Advertisement</div>
+<div id=ad-target class="id-ad-target ads-300-250"></div>
+</div>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>Events</h3>
+</div>
+<div class="g-unit">
+<div class=sfe-break-right-em>
+<img src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+               width=16 height=16 class=SP_calendar id=calendar alt="">
+<a onclick="_GF_click('', 'add_ical', 'GOOG', '')" href="//www.google.com/calendar/render?ei=EvUaWYmpKc_euQTe7ZmQDQ&hl=en&cid=http://www.google.com:80%2Ffinance%2Fevents%3Fq%3DNASDAQ%3AGOOG%26output%3Dical" >Add GOOG to my calendars</a>
+</div>
+</div>
+</div>
+<div class="events sfe-section">
+<div class=event>
+<div class="bld date">Jul 26, 2017</div>
+<div>Q2 2017 Alphabet Inc Earnings Release (Estimated)
+<a onclick="_GF_click('', 'add_cal_evnt', 'GOOG', '')" href= "
+  //www.google.com/calendar/event?ei=EvUaWYmpKc_euQTe7ZmQDQ&hl=en&action=TEMPLATE&text=Q2+2017+Alphabet+Inc+Earnings+Release+(Estimated)&dates=20170726/20170726&sprop=finance"  class=time>
+<img alt="Add to calendar" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=16 height=16 class=SP_calendar id=calendar>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Jun 8, 2017</div>
+<div>Alphabet Inc Annual Shareholders Meeting (Estimated)
+- <span class=time>12:00PM EDT</span> -
+<a onclick="_GF_click('', 'add_cal_evnt', 'GOOG', '')" href= "
+  //www.google.com/calendar/event?ei=EvUaWYmpKc_euQTe7ZmQDQ&hl=en&action=TEMPLATE&text=Alphabet+Inc+Annual+Shareholders+Meeting+(Estimated)&dates=20170608T160004Z/20170608T170004Z&sprop=finance"  class=time>
+<img alt="Add to calendar" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=16 height=16 class=SP_calendar id=calendar>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Jun 7, 2017</div>
+<div>Alphabet Inc Annual Shareholders Meeting
+- <span class=time>12:00PM EDT</span> -
+<a onclick="_GF_click('', 'add_cal_evnt', 'GOOG', '')" href= "
+  //www.google.com/calendar/event?ei=EvUaWYmpKc_euQTe7ZmQDQ&hl=en&action=TEMPLATE&text=Alphabet+Inc+Annual+Shareholders+Meeting&dates=20170607T160000Z/20170607T170000Z&sprop=finance"  class=time>
+<img alt="Add to calendar" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=16 height=16 class=SP_calendar id=calendar>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Apr 30, 2017</div>
+<div>Alphabet Inc at Milken Institute Global Conference
+</div>
+</div>
+<div class=event>
+<div class="bld date">Apr 27, 2017</div>
+<div>Q1 2017 Alphabet Inc Earnings Call -
+<a onclick="_GF_click('', 'webcast', 'GOOG', '')" href=//www.google.com/url?source=finance&q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEKxdRzt0TzU&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNHwNO61sNUCWorr8yZvuZMxI5hEdA  class=time>
+<img alt="Webcast" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=19 height=16 class=SP_webcast id=webcast>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Apr 27, 2017</div>
+<div>Q1 2017 Alphabet Inc Earnings Release
+</div>
+</div>
+<div class=event>
+<div class="bld date">Feb 27, 2017</div>
+<div>Alphabet Inc at Morgan Stanley Technology, Media &amp; Telecom Conference
+</div>
+</div>
+<table><tr>
+<td>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.dailyfinance.com%2Fevent%2FGOOG%2Fusa&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNEVTjzr829h3D75Ak9n5rgewLDftA" >
+More events from DailyFinance &raquo;</a>&nbsp;
+&nbsp;&nbsp;<nobr>
+</td>
+</tr></table>
+</div>
+<div class=hdg><h3>Key stats and ratios</h3></div>
+<div class=sfe-section>
+<table class="quotes rgt nwp" width="100%">
+<thead><tr>
+<td width=50%>
+<td class=colHeader>Q1 (Mar &#39;17)
+<td class=colHeader>2016
+</tr></thead>
+<tr>
+<td class="lft name">Net profit margin
+<td class=period>21.92%
+<td class=period>21.58%
+<tr>
+<td class="lft name">Operating margin
+<td class=period>26.54%
+<td class=period>26.27%
+<tr>
+<td class="lft name">EBITD margin
+<td class=period>-
+<td class=period>33.08%
+<tr>
+<td class="lft name">Return on average assets
+<td class=period>12.79%
+<td class=period>12.37%
+<tr>
+<td class="lft name">Return on average equity
+<td class=period>15.33%
+<td class=period>15.02%
+<tr>
+<td class="lft name">Employees
+<td class=period>72,053
+<td class=period>-
+<tr>
+<td class="lft name">CDP Score
+<td class=period>-
+<td class=period>
+<a id=m-cdi href=//www.google.com/url?source=finance&q=https%3A%2F%2Fwww.cdp.net%2Fen%2Fresponses%2F7616&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGQTeyyAEhd4lD7Y_e_csmfMLAPOQ>A</a>
+</table>
+<div class=sfe-break-top>
+<a id="similar" href="/finance/similar?q=NASDAQ:GOOG&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ" >Screen stocks with similar metrics &raquo;</a></div>
+</div>
+<div class=hdg><h3>Address</h3></div>
+<div class=sfe-section>1600 Amphitheatre Pkwy<br/>MOUNTAIN VIEW, CA 94043-1351<br/>United States
+- <a href="http://maps.google.com/maps?ei=EvUaWYmpKc_euQTe7ZmQDQ&q=1600+Amphitheatre+Pkwy+MOUNTAIN+VIEW+94043-1351+United+States%20(Alphabet+Inc)" >Map</a><br/>+1-650-2530000 (Phone)<br>+1-302-6365454 (Fax)<br>
+</div>
+<div class=hdg><h3>Website links</h3></div>
+<div class=sfe-section><div class=item>
+<a id=fs-chome href="//www.google.com/url?source=finance&q=https%3A%2F%2Fabc.xyz%2F&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNFgBazlr3JXYOF3eChaW82ANJzL_g" >
+https://abc.xyz/
+</a>
+</div>
+<a id=fs- class=item href="//www.google.com/url?source=finance&q=http%3A%2F%2Fgoogleblog.blogspot.com&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNG1UyujH2rXAjRjnuMeBcEDYkPU7w" >Official Blog</a>
+</div>
+<div class=hdg><h3>External links</h3></div>
+<div class=sfe-section>
+<div class=item><a id=m-analyst
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.marketwatch.com%2Finvesting%2Fstock%2FGOOG%2Fanalystestimates&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNFNhSWwfd0KOocjK3wL0g6QsCidiQ >Analyst Estimates</a> - <font color="#6F6F6F">MarketWatch</font></div>
+<div class=item><a id=m-sec
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Fgoogle.brand.edgar-online.com%3Fsym%3DGOOG&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGkZFjud75VSQ5ZsQdnacBkuynzJA >SEC Filings</a> - <font color="#6F6F6F">EDGAR Online</font></div>
+<div class=item><a id=m-hold
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Finvesting.money.msn.com%2Finvestments%2Finstitutional-ownership%3Fsymbol%3DGOOG&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGL0r7Vu2YwgxSki_wFb3e_6bgD0g >Major Holders</a> - <font color="#6F6F6F">MSN Money</font></div>
+<div class=item><a id=m-research
+                 href=//www.google.com/url?source=finance&q=https%3A%2F%2Fcommerce.us.reuters.com%2Fpurchase%2FadvancedSearch.do%3Fsymbol%3DGOOGL.O%26rpc%3D68&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNFN4BQEDmW11M730nE94R7wIayZhQ >Research Reports</a> - <font color="#6F6F6F">Reuters</font></div>
+<div class=item><a id=m-transcripts
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.seekingalpha.com%2Ftranscripts%2Ffor%2FGOOG&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGoKaPVmKBna8L8Poac24IGCAa88w >Transcripts</a> - <font color="#6F6F6F">SeekingAlpha</font></div>
+<div class=item><a id=m-wiki
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNHb8T0uPdPQ3zRcW5GqBJE6nmy-qA >About Company</a> - <font color="#6F6F6F">Wikipedia</font></div>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper class=id-compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor></div>
+<div class=id-chart-footer>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8 overflow-floatfix">
+<div class="g-unit g-first"><div class="id-chart-footer-links hide">
+<span class=settings-link>Settings</span> |
+<span class=technicals-link>Technicals</span> |
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            class="linktochart-img SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<span class=linktochart-link>
+Link to this view</span>
+</span>
+</div></div>
+<div class="g-unit">
+<span class="chart-dis">Volume delayed by 15 mins.<br>Prices are not from all markets.<br>
+<a href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.six-financial-information.com%2Fen%2Fhome%2Fprofile.html%3Futm_source%3Dgooglefinance%26utm_medium%3Dorganic%26utm_campaign%3DGoogle%2520Finance&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGs8cU6B7MNXe_olsKMhjaap51-zA>
+Sources include SIX.</a><br>
+</span>
+</div>
+</div>
+</div>
+<script>
+var _minZoomDays = 1;
+var _minZoomDaysNoIntraDay = _minZoomDays;
+var _timeZoneOffset = '-18000';
+_chartConfigObject = {};
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = true;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '304466804484872';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 41;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.expandButtonEnabled = true;
+_chartConfigObject.companyCurrency = 'USD';
+_chartConfigObject.displayDividendsUnits = 'true';
+_external_target = "";
+_emitFlashChart(
+"/finance/s/ABspo0BpCOs/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=GOOG&x=NASD&p=3d&i=240&ei=EvUaWYmpKc_euQTe7ZmQDQ" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+<div style="height:1em;"></div>
+</div>
+</div>
+<div id=ad2>
+<div id=ad2-label class=invisible>Advertisement</div>
+<div id=ad2-target class=id-ad2-target></div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class="id-related hide">
+<div class=hdg>
+<div class=float>
+<h3>Related companies</h3>
+</div>
+</div>
+<div>
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first">
+Show:
+<select id=related-select class=id-related-select>
+<option value=mrq >
+Most Recent Quarter
+</option>
+<option value=mra selected>
+Most Recent Annual
+</option>
+</select>
+</div>
+<div class=g-unit>
+<span class="id-related-edit-col linkbtn">Add or remove columns</span>
+<button class=id-related-save style="display:none">Save changes</button>
+<button class=id-related-cancel style="display:none">Cancel</button>
+</div>
+</div>
+</div>
+<div class="id-related-table gf-table-scroll-x jfk-scrollbar"
+       style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>
+<div class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first">Sector: <a id=sector href="?catid=us-TRBC:57&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ" >Technology</a> &gt; Industry: <a href="?catid=us-TRBC:5720103011&amp;ei=EvUaWYmpKc_euQTe7ZmQDQ" >Search Engines</a>
+</div><div class=g-unit>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.factset.com%2Fdata%2Ffactset_data%2Findustry-and-sector&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNEV5Il5ATHWR_A6ZcDXof4oDuv0hg" >More from FactSet &raquo;</a>
+</div>
+</div>
+</div>
+</div>
+<div id=reorder class=id-reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+</div>
+<div id=summary-section
+>
+<div id=summary>
+<div class=hdg><div class=float>
+<h3>Description</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<div class=companySummary>
+Alphabet Inc. is a holding company. The Company's businesses include Google Inc. (Google) and its Internet products, such as Access, Calico, CapitalG, GV, Nest, Verily, Waymo and X. The Company's segments include Google and Other Bets. The Google segment includes its Internet products, such as Search, Ads, Commerce, Maps, YouTube, Google Cloud, Android, Chrome and Google Play, as well as its hardware initiatives. The Google segment is engaged in advertising, sales of digital content, applications and cloud offerings, and sales of hardware products. The Other Bets segment is engaged in the sales of Internet and television services through Google Fiber, sales of Nest products and services, and licensing and research and development (R&D) services through Verily. It offers Google Assistant, which allows users to type or talk with Google; Google Maps, which helps users navigate to a store, and Google Photos, which helps users store and organize all of their photos.
+<div class=sfe-break-top>
+<a id=m-rprofile href=//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FfullDescription.asp%3Frpc%3D66%26symbol%3DGOOGL.O&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNHd4zVYZEm5GMCShFfe2Hz0Glt18A >
+More from Reuters &raquo;
+</a></div>
+</div>
+</div>
+</div>
+</div><script>_tck('aft');</script>
+<div id=mgmt-section
+>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg><div class=float>
+<h3>Officers and directors</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table class=id-mgmt-table width=100%><tbody>
+<tr >
+<td class="p linkbtn">Eric E. Schmidt Ph.D.
+<td class=i>
+<td class=t>Executive Chairman of the Board of Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 61<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D480644&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGOIpTLh4o_GyRQzxvB7fDXZ7Z1cg >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Sergey Brin
+<td class=i>
+<td class=t>President, Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 43<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D480647&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNE1GCC9lNwzhMf6xpjK6gsSluWSWw >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<a class=e-t href="//www.google.com/url?source=finance&q=http%3A%2F%2Fbiz.yahoo.com%2Ft%2F27%2F6414.html&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNFQFPI5E0KK8H4RxFJ7XsTqIL-u5w" >Trading&nbsp;Activity</a>&nbsp;-&nbsp;<font color="#606060">Yahoo&nbsp;Finance</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Lawrence E. Page
+<td class=i>
+<td class=t>Chief Executive Officer, Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 44<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D480651&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNFmykHiGtJB4DCnRVuTdSSI_ZZ3JA >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Ruth M. Porat
+<td class=i>
+<td class=t>Chief Financial Officer, Senior Vice President
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 59<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D2594505&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNFaXBf1Vb7G4MaQgqvPjfVo1IGoUA >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Sundar Pichai
+<td class=i>
+<td class=t>Chief Executive Officer, Google Inc.
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 45<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D2657229&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNHtsIGZZla53Y7Gcyw-gIE5ExyYGA >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">David C. Drummond
+<td class=i>
+<td class=t>Senior Vice President - Corporate Development, Chief Legal Officer, Secretary
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 54<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D480654&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGFx4VN-Drw3H3o_p4zHGB6mm6vZg >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<a class=e-t href="//www.google.com/url?source=finance&q=http%3A%2F%2Fbiz.yahoo.com%2Ft%2F22%2F6414.html&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGBdkKnRfU1nfAEChKKW06_JjDhUw" >Trading&nbsp;Activity</a>&nbsp;-&nbsp;<font color="#606060">Yahoo&nbsp;Finance</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">John L. Hennessy Ph.D.
+<td class=i>
+<td class=t>Lead Independent Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 64<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D480659&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNEN5KidwTDDqtV1alPJ9begeg9kjA >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Diane B. Greene
+<td class=i>
+<td class=t>Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 61<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D1678945&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNHpWYIl1lafM0gs3JDGAXK9aFMrJQ >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">L. John Doerr
+<td class=i>
+<td class=t>Independent Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 65<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D480658&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNHGDS3T3KfxCSvTW3G1fgepzWphgw >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Roger W. Ferguson Jr.
+<td class=i>
+<td class=t>Independent Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 65<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DGOOGL.O%26officerId%3D2735140&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGQlC4lWnAZrXcgzUAKV-8tQSQ7XQ >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</table>
+<div class=gb>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FofficersDirectors.asp%3Fsymbol%3DGOOGL.O%26WTmodLOC%3DC4-Officers-5&ei=EvUaWYmpKc_euQTe7ZmQDQ&usg=AFQjCNGTRwzptxCbJO5t9EIZfAvuYkQI2g" >
+Full list on Reuters &raquo;</a></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div><div id=gf-foot><div id=fjfe-edition-links class=fjfe-footer-links>Google Finance Beta available in: <a href="http://www.google.com.hk/finance?ei=EvUaWYmpKc_euQTe7ZmQDQ" class="fjfe-edition-link">Hong Kong</a> - <a href="http://www.google.ca/finance?ei=EvUaWYmpKc_euQTe7ZmQDQ" class="fjfe-edition-link">Canada</a> - <a href="http://www.google.com/finance?ei=EvUaWYmpKc_euQTe7ZmQDQ" class="fjfe-edition-link">U.S.</a> - <a href="http://www.google.com.hk/finance?hl=zh-CN&ei=EvUaWYmpKc_euQTe7ZmQDQ" class="fjfe-edition-link">China</a> - <a href="http://www.google.co.uk/finance?ei=EvUaWYmpKc_euQTe7ZmQDQ" class="fjfe-edition-link">U.K.</a></div><p class=fjfe-footer-disclaimer>Information is provided "as is" and solely for informational purposes, not for trading purposes or advice, and may be delayed.<br>To see all exchange delays, please <a href="http://www.google.com/intl/en/googlefinance/disclaimer/?ei=EvUaWYmpKc_euQTe7ZmQDQ" class="fjfe-secondary-link fjfe-no-sticky-params"> see disclaimer</a>.</p><div class=fjfe-footer-links>&copy;2017 Google - <a href="http://www.google.com?hl=en&ei=EvUaWYmpKc_euQTe7ZmQDQ">Google Home</a> - <a href="http://googlefinanceblog.blogspot.com?ei=EvUaWYmpKc_euQTe7ZmQDQ">Blog</a> - <a href="http://support.google.com/finance?hl=en&ei=EvUaWYmpKc_euQTe7ZmQDQ">Help</a> - <a href="http://support.google.com/finance?ctx=report&hl=en&ei=EvUaWYmpKc_euQTe7ZmQDQ&exch=NASDAQ&sym=GOOG">Report a Problem</a> - <a href="http://www.google.com/intl/en/policies/privacy/?ei=EvUaWYmpKc_euQTe7ZmQDQ">Privacy Policy</a> - <a href="http://www.google.com/intl/en/policies/terms/?ei=EvUaWYmpKc_euQTe7ZmQDQ">Terms of Service</a></div></div>
+<script>
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'EvUaWYmpKc_euQTe7ZmQDQ';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+_setStickyUrlParams("ei=EvUaWYmpKc_euQTe7ZmQDQ");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+</script>
+</div></div><script>var googlefinance = {i: ["f.b.id","",null,0,"",0,null,["f.b.cf","IjD_-hDd_UQ.en_US.",0],[],1,[],"EvUaWYmpKc_euQTe7ZmQDQ","www.google.com","P8CcuFLyoYk4ZqZoiPulwkyZkak:1494938898880",1]}; GF_domReady = 1;</script></body></html>
